@@ -1,0 +1,977 @@
+Supercharger,Street Address ?,City,State,Zip,Country,Stalls,GPS,Elev.(m),Status,Open Date,Tesla,Discuss
+"Newark, DE",null,Newark,DE,19725,USA,12,"39.6635, -75.69017",18,Open,null,SC,thread
+"Girona-Hotel ibis, Spain",null,Girona,,,Spain,4,"41.998411, 2.817295",83,Open,null,SC,thread
+"Hangzhou-Binjiang, China",null,Hangzhou,Zhejiang,310051,China,4,"30.178795, 120.218038",8,Open,null,SC,forum
+"Price, UT",null,Price,UT,84501,USA,8,"39.600731, -110.831701","1,207",Open,null,SC,thread
+"Ödeshög, Sweden",null,Ödeshög,,,Sweden,8,"58.227074, 14.668253",140,Open,null,SC,forum
+"Mountain View, CA",null,Mountain View,CA,94043,USA,12,"37.415344, -122.076607",6,Open,null,SC,thread
+"Barcelona, Spain",null,Barcelona,,,Spain,12,"41.499243, 2.072811",214,Construction,null,SC,thread
+"Bakersfield, CA",null,Bakersfield,CA,93314,USA,10,"35.354643, -119.331607",93,Open,null,SC,thread
+"Beijing Qing Bend Golf Club, China",null,Beijing,Beijing,,China,4,"40.032772, 116.391143",38,Open,null,SC,thread
+"Jinan - Times Headquarter Base, China",null,Jinan,Shandong,,China,6,"36.709206, 116.956635",27,Open,null,SC,forum
+"Brenner pass, Italy",null,Brennero,,,Italy,8,"46.993878, 11.500995","1,376",Open,null,SC,thread
+"Ukiah, CA",null,Ukiah,CA,95482,USA,8,"39.1481, -123.208604",193,Open,null,SC,thread
+"Changzhou - Changfa Mansion, China",null,Changzhou,Jiangsu,,China,6,"31.696607, 119.953329",6,Open,null,SC,forum
+"Lifton, UK",null,Lifton,,PL16 0AA,United Kingdom,4,"50.643377, -4.284553",84,Construction,null,SC,forum
+"Lexington, KY",null,Lexington,KY,40509,USA,8,"38.017955, -84.420664",310,Open,null,SC,thread
+"Lutterberg, Germany",null,Staufenberg,,34355,Germany,6,"51.370996, 9.633307",376,Open,null,SC,thread
+"Buellton, CA",null,Buellton,CA,93427,USA,10,"34.61456, -120.188387",114,Open,null,SC,forum
+"Hohenwarsleben, Germany",null,Hohenwarsleben,,39326,Germany,6,"52.173963, 11.494255",131,Open,null,SC,thread
+"Girona, Spain",null,Girona,,,Spain,10,"41.859029, 2.767237",132,Open,null,SC,forum
+"Skibotn, Norway",null,Skibotn,,9143,Norway,6,"69.392448, 20.268423",1,Open,null,SC,thread
+"Pau, France",null,Pau,,64000,France,8,"43.332257, -0.358762",210,Open,null,SC,forum
+"Verviers, Belgium",null,Verviers,,087 30 56 56,Belgium,8,"50.592323, 5.848511",163,Open,null,SC,thread
+"Vrgorac, Croatia",null,Vrgorac,,,Croatia,6,"43.204105, 17.373824",224,Open,null,SC,thread
+"Metz, France",null,Metz,Hauconcourt,57280,France,8,"49.218222, 6.183539",161,Open,null,SC,forum
+"Chengdu-Aipu, China",null,Chengdu,Sichuan,,China,6,"30.630953, 104.145454",512,Open,null,SC,forum
+"Normal, IL",null,Normal,IL,61761,USA,4,"40.508497, -88.985575",236,Open,null,SC,thread
+"Drachten, Netherlands",null,Drachten,,,Netherlands,8,"53.105883, 6.129539",6,Open,null,SC,forum
+"Twentynine Palms, CA",null,Twentynine Palms,CA,92277,USA,8,"34.12046, -116.050953",631,Open,null,SC,thread
+"Utica, NY",null,Utica,NY,13501,USA,8,"43.113878, -75.206857",128,Open,null,SC,thread
+"Perry, OK",null,Perry,OK,73077,USA,6,"36.289315, -97.325935",330,Open,null,SC,thread
+"Baoding - Heyang School, China",null,Baoding,Hebei,,China,4,"38.823845, 115.533691",16,Open,null,SC,forum
+"Fish Camp, CA",null,Fish Camp,CA,93623,USA,8,"37.473828, -119.635893","1,557",Open,null,SC,thread
+"Shanghai - Manpo Plaza, China",null,Shanghai,Shanghai,,China,6,"31.216944, 121.436203",7,Open,null,SC,forum
+"Monroe, LA",null,Monroe,LA,,USA,8,"32.496251, -92.056057",21,Open,null,SC,thread
+"Bordeaux, France",null,Merignac,,33700,France,8,"44.835346, -0.681374",50,Open,null,SC,forum
+"Nanaimo, BC",null,Nanaimo,BC,V9V 1T7,Canada,8,"49.237883, -124.054722",103,Construction,null,SC,thread
+"Rawlins, WY",null,Rawlins,WY,82301,USA,8,"41.79082, -107.210272","2,042",Permit,null,SC,thread
+"Dublin, CA",null,Dublin,CA,94568,USA,14,"37.702359, -121.92593",103,Open,null,SC,thread
+"Beijing - Haidian B+W Checker, China",null,Beijing,Beijing,,China,2,"39.951088, 116.281837",58,Open,null,SC,forum
+"Holbrook, AZ",null,Holbrook,AZ,86025,USA,4,"34.922962, -110.145558","1,596",Open,null,SC,thread
+"Santa Fé, Spain",null,Santa Fé,,,Spain,8,"37.183322, -3.769525",572,Permit,null,SC,forum
+"Eindhoven, Netherlands",null,Eindhoven,,,Netherlands,8,"51.407268, 5.479937",20,Open,null,SC,thread
+"Hagerstown, MD",null,Hagerstown,MD,21740,USA,6,"39.605859, -77.733324",164,Open,null,SC,thread
+"Malsfeld, Germany",null,Malsfeld,,34323,Germany,8,"51.087435, 9.485296",269,Open,null,SC,forum
+"Milford, CT",null,Milford,CT,,USA,14,"41.238035, -73.036156",6,Open,null,SC,thread
+"Fleet, UK",null,Fleet,,GU51 1AA,United Kingdom,12,"51.296156, -0.857274",67,Construction,null,SC,forum
+"Lincoln, NH",null,Lincoln,NH,3251,USA,6,"44.042314, -71.668127",245,Open,null,SC,thread
+"South Burlington, VT",null,South Burlington,VT,5403,USA,8,"44.463327, -73.180184",94,Open,null,SC,thread
+"Lansing, MI",null,Lansing,MI,48912,USA,8,"42.767903, -84.516401",1,Construction,null,SC,thread
+"Crescent City, CA",null,Crescent City,CA,95531,USA,6,"41.752393, -124.1944",4,Open,null,SC,thread
+Shanghai - Grand Gateway,null,Shanghai,Shanghai,,China,6,"31.19392, 121.436501",18,Open,null,SC,forum
+"Dedham, MA",null,Dedham,MA,,USA,8,"42.236034, -71.178634",29,Open,null,SC,thread
+"Springfield, MO",null,Springfield,MO,65803,USA,8,"37.251836, -93.265534",398,Open,null,SC,thread
+"Golden, BC",null,Golden,BC,V0A 1H0,Canada,4,"51.31325, -116.974152",802,Open,null,SC,thread
+"Oakdale, MN",null,Oakdale,MN,,USA,8,"44.96499, -92.96129",329,Open,null,SC,thread
+"Superior, MT",null,Superior,MT,59872,USA,4,"47.192149, -114.888901",835,Open,null,SC,thread
+"Nancy, France",null,Nancy,,54180,France,8,"48.638215, 6.184349",247,Open,null,SC,forum
+"Boise, ID",null,Boise,ID,83709,USA,8,"43.592633, -116.280653",837,Open,null,SC,thread
+"JFK Airport, NY",null,Queens,NY,11430,USA,4,"40.66319, -73.793192",3,Open,null,SC,thread
+"St. Valentin, Austria",null,St. Valentin,,4300,Austria,8,"48.196468, 14.527973",260,Open,null,SC,thread
+"Trinidad, CO",null,Trinidad,CO,81082,USA,6,"37.134228, -104.519962","1,933",Open,null,SC,thread
+"Joplin, MO",null,Joplin,MO,64804,USA,8,"37.047552, -94.473399",314,Open,null,SC,thread
+"Gol, Norway",null,Gol,,3550,Norway,8,"60.70232, 8.9862",201,Open,null,SC,forum
+"Baker City, OR",null,Baker City,OR,97814,USA,8,"44.782849, -117.812422","1,044",Open,null,SC,thread
+"Busdorf, Germany",null,Busdorf,,24866,Germany,14,"54.476703, 9.544304",20,Open,null,SC,thread
+"Folsom-Palladio, CA",null,Folsom,CA,95630,USA,10,"38.647199, -121.118344",116,Open,null,SC,thread
+"Monroe, WA",null,Monroe,WA,98272,USA,12,"47.86274, -121.97672",20,Open,null,SC,thread
+"Hawthorne, NV",null,Hawthorne,NV,89415,USA,8,"38.533939, -118.62308","1,301",Open,null,SC,thread
+"Panda Place, Hong Kong, China",null,Tsuen Wan,Hong Kong,,China,4,"22.368929, 114.120542",43,Open,null,SC,forum
+"Van Horn, TX",null,Van Horn,TX,79855,USA,8,"31.03448, -104.861431","1,230",Open,null,SC,thread
+"Skjåk, Norway",null,Skjåk,,2690,Norway,6,"61.883135, 8.267249",396,Open,null,SC,thread
+"Qinhuangdao harbor, China",null,Qinhuangdao,Hebei,,China,2,"39.9712, 119.549586",12,Open,null,SC,forum
+"St. Augustine, FL",null,St. Augustine,FL,32092,USA,6,"29.924286, -81.416018",14,Open,null,SC,thread
+"Chattanooga, TN",null,Chattanooga,TN,37421,USA,6,"35.038644, -85.19593",204,Open,null,SC,thread
+"Albert Lea, MN",null,Albert Lea,MN,56007,USA,4,"43.68606, -93.357721",383,Open,null,SC,thread
+"The Dalles, OR",null,The Dalles,OR,97058,USA,5,"45.611964, -121.208526",45,Open,null,SC,thread
+"Rivière du Loup, QC",null,Rivière du Loup,QC,G5R 5S4,Canada,8,"47.82017, -69.558776",40,Open,null,SC,thread
+"Burtonwood, UK",null,Burtonwood,,,United Kingdom,8,"53.417605, -2.639522",12,Construction,null,SC,forum
+"Greenville, AL",null,Greenville,AL,36037,USA,6,"31.855989, -86.635765",145,Open,null,SC,thread
+"Morioka, Japan",null,Morioka,,,Japan,6,"39.685291, 141.127986",1,Open,null,SC,forum
+"Zella-Mehlis, Germany",null,Zella-Mehlis,,98544,Germany,6,"50.643912, 10.68499",544,Open,null,SC,thread
+"Warsaw, NC",null,Warsaw,NC,28398,USA,6,"34.994272, -78.136679",47,Open,null,SC,thread
+"Grong, Norway",null,Grong,,7870,Norway,8,"64.464932, 12.315369",43,Open,null,SC,forum
+"Keith, Australia",null,Keith,SA,5267,Australia,4,"-36.099079, 140.35576",32,Permit,null,SC,thread
+"Tanum, Sweden",null,Tanum,,45732,Sweden,16,"58.72117, 11.34538",49,Open,null,SC,thread
+"Charlotte, NC",null,Charlotte,NC,28262,USA,8,"35.341213, -80.766023",232,Open,null,SC,thread
+"Shenzhen - Futian Tianan Cyber Park, China",null,Shenzhen,Guangdong,,China,6,"22.52968, 114.031258",10,Open,null,SC,forum
+"Brattleboro, VT",null,Brattleboro,VT,5301,USA,8,"42.838443, -72.565798",129,Open,null,SC,thread
+"Macedonia, OH",null,Macedonia,OH,44056,USA,6,"41.313663, -81.517018",296,Open,null,SC,thread
+"Euroa, Australia",null,Euroa,VIC,3666,Australia,2,"-36.742663, 145.591278",177,Open,null,SC,thread
+"Kingston, ON",null,Kingston,ON,K7K 0C4,Canada,6,"44.267307, -76.503291",90,Open,null,SC,thread
+"Daegu, South Korea",null,?????,,,South Korea,6,"35.907022, 128.613115",35,Open,null,SC,forum
+"Channelview, TX",null,Channelview,TX,77530,USA,8,"29.784665, -95.110612",7,Open,null,SC,forum
+"Sheridan, WY",null,Sheridan,WY,82801,USA,4,"44.804565, -106.956363","1,136",Open,null,SC,thread
+"Nephi, UT",null,Nephi,UT,84648,USA,6,"39.678397, -111.840704","1,555",Open,null,SC,thread
+"Monte Ceneri/Rivera, Switzerland",null,Rivera,,,Switzerland,6,"46.138926, 8.90781",473,Open,null,SC,thread
+"St. Pölten, Austria",null,St. Pölten,,,Austria,8,"48.205831, 15.618567",271,Construction,null,SC,forum
+"Edsbruk, Sweden",null,Edsbruk,,590 98,Sweden,6,"57.97985, 16.482407",25,Open,null,SC,thread
+"Uppsala, Sweden",null,Uppsala,,,Sweden,8,"59.939568, 17.657669",29,Permit,null,SC,forum
+"Shenzhen - Yayuan Hotel, China",null,Shenzhen,Guangdong,,China,6,"22.555546, 114.12735",23,Open,null,SC,forum
+"Grand Ave (SC), Chicago, IL",null,Chicago,IL,60642,USA,2,"41.890732, -87.654125",181,Open,null,SC,thread
+"Chambéry, France",null,Chambéry,,73000,France,4,"45.592227, 5.899842",256,Open,null,SC,forum
+"Aqaba, Jordan",null,Aqaba,,,Jordan,4,"29.599653, 35.027267",84,Open,null,SC,thread
+"Wilnsdorf, Germany",null,Wilnsdorf,,57234,Germany,8,"50.816873, 8.08576",436,Open,null,SC,forum
+"Madison, WI",null,Madison,WI,53704,USA,3,"43.12669, -89.306896",267,Open,null,SC,thread
+"Huabo Witpark, Nanjing, China",null,Nanjing,Jiangsu,,China,2,"31.974527, 118.77493",20,Open,null,SC,forum
+"Masdar City, UAE",null,Abu Dhabi,,,United Arab Emirates,4,"24.440819, 54.618899",4,Open,null,SC,thread
+"Miner, MO",null,Miner,MO,63801,USA,8,"36.893583, -89.533986",94,Open,null,SC,thread
+"Oftringen, Switzerland",null,Oftringen,,,Switzerland,8,"47.311977, 7.934988",424,Permit,null,SC,forum
+"Aire de Manissieux, France",null,Saint-Priest,,,France,6,"45.69848, 4.977541",240,Open,null,SC,forum
+"Chongqing Fortune Plaza, China",null,Chongqing,Chongqing,610016,China,6,"29.608009, 106.509449",238,Open,null,SC,forum
+"Guangzhou White Swan Hotel, China",null,Guangzhou,Guangdong,,China,4,"23.105297, 113.243889",14,Open,null,SC,forum
+"Warwick Northbound, UK",null,Warwick,,CV35 0AA,United Kingdom,8,"52.216831, -1.50513",83,Open,null,SC,forum
+"Sequim, WA",null,Sequim,WA,98382,USA,8,"48.071232, -123.074527",54,Open,null,SC,thread
+"Wausau, WI",null,Wausau,WI,54401,USA,2,"44.950214, -89.6635",356,Open,null,SC,thread
+"Ann Arbor, MI",null,Ann Arbor,MI,48108,USA,8,"42.240687, -83.766265",282,Open,null,SC,thread
+"Syosset, NY",null,Syosset,NY,11791,USA,4,"40.799839, -73.515267",56,Open,null,SC,thread
+"Ballarat, Australia",null,Ballarat,Victoria,3355,Australia,6,"-37.534593, 143.822666",464,Open,null,SC,thread
+"Parry Sound, ON",null,Parry Sound,ON,,Canada,8,"45.345576, -80.005751",228,Open,null,SC,thread
+Shanghai-Jinqiao,null,Shanghai,Shanghai,,China,12,"31.242916, 121.575329",4,Open,null,SC,forum
+Quanshang Plaza Quanzhou,null,Quanzhou,Fujian,362200,China,4,"24.868315, 118.604556",3,Open,null,SC,forum
+"Dugopolje, Croatia",null,Dugopolje,,,Croatia,6,"43.587987, 16.577041",301,Open,null,SC,forum
+"Cranberry, PA",null,Cranberry Township,PA,16066,USA,6,"40.683982, -80.10839",312,Open,null,SC,thread
+"Verona, Italy",null,Verona,,37135,Italy,6,"45.412326, 10.970212",61,Open,null,SC,thread
+"Gallup, NM",null,Gallup,NM,87301,USA,4,"35.505278, -108.828094","1,970",Open,null,SC,thread
+"Sandy, OR",null,Sandy,OR,97055,USA,8,"45.403531, -122.294242",236,Open,null,SC,thread
+"Kai Tak Cruise Terminal, Hong Kong, China",null,Hong Kong,Hong Kong,,China,6,"22.306989, 114.212648",5,Open,null,SC,forum
+"Fort Stockton, TX",null,Fort Stockton,TX,79735,USA,8,"30.90069, -102.905559",920,Permit,null,SC,thread
+"Cornwall, ON",null,Cornwall,ON,K6J 4P3,Canada,6,"45.023665, -74.747845",56,Open,null,SC,thread
+"Edison, NJ",null,Edison,NJ,8837,USA,8,"40.544814, -74.333248",30,Open,null,SC,thread
+"Hamburg, Hotel Lindtner, Germany",null,Hamburg,,21075,Germany,4,"53.460761, 9.939778",61,Open,null,SC,thread
+"Page, AZ",null,Page,AZ,86040,USA,8,"36.924902, -111.468041","1,239",Open,null,SC,thread
+"Uddevalla, Sweden",null,Uddevalla,,451 98,Sweden,12,"58.351686, 11.811694",41,Open,null,SC,thread
+"Fountain Valley, Changsha, China",null,Changsha,Hunan,,China,6,"28.347987, 112.97953",57,Open,null,SC,forum
+"West Hartford, CT",null,West Hartford,CT,6110,USA,8,"41.722672, -72.759717",52,Open,null,SC,thread
+"Xi'an Yanta, China",null,Xi'an,Shanxi,,China,4,"34.225265, 108.887777",410,Open,null,SC,forum
+Changchun Jiatai,null,Changchun,Jilin,130033,China,4,"43.880538, 125.421998",210,Open,null,SC,forum
+"Geiselwind, Germany",null,Geiselwind,,,Germany,6,"49.768301, 10.471644",357,Open,null,SC,thread
+"Blankenfelde, Germany",null,Blankenfelde-Mahlow,,15827,Germany,8,"52.308961, 13.444752",42,Open,null,SC,thread
+"Saint-Laurent, QC",null,Saint-Laurent,QC,H4R 1Y8,Canada,12,"45.500503, -73.707943",33,Open,null,SC,thread
+"Winnemucca, NV",null,Winnemucca,NV,89445,USA,4,"40.958847, -117.746497","1,308",Open,null,SC,thread
+"Milford, CT (north)",null,Milford,CT,6460,USA,2,"41.245814, -73.008988",19,Open,null,SC,forum
+"Loveland, CO",null,Loveland,CO,80538,USA,10,"40.44146, -104.991205","1,546",Open,null,SC,thread
+"Charlottesville, VA",null,Charlottesville,VA,22901,USA,8,"38.067051, -78.492702",149,Construction,null,SC,thread
+"St. Anton, Austria",null,St. Anton am Arlberg,,6580,Austria,4,"47.130137, 10.269231","1,287",Open,null,SC,forum
+"Irschenberg, Germany",null,Irschenberg,,83737,Germany,6,"47.826777, 11.898642",681,Open,null,SC,thread
+"Glen Allen, VA",null,Glen Allen,VA,23059,USA,8,"37.669832, -77.461419",49,Open,null,SC,forum
+"Amarillo, TX",null,Amarillo,TX,79124,USA,8,"35.189035, -101.931478","1,134",Open,null,SC,thread
+"Sweetwater, TX",null,Sweetwater,TX,79556,USA,8,"32.450591, -100.392455",660,Open,null,SC,thread
+"Needles, CA",null,Needles,CA,92363,USA,4,"34.850835, -114.624329",157,Open,null,SC,thread
+"Stuhr (Bremen-Brinkum), Germany",null,Stuhr,,28816,Germany,4,"53.02836, 8.806156",6,Open,null,SC,thread
+"Rade, Germany",null,Neu Wulmstorf/Rade,,21629,Germany,8,"53.369722, 9.802193",83,Open,null,SC,forum
+"Kobe, Japan",null,Kobe,,9/2/2005,Japan,4,"34.657031, 135.226048",3,Open,null,SC,forum
+"Cleveland, Tesla Service Center",null,Lyndhurst,OH,44124,USA,1,"41.519027, -81.493345",314,Open,null,SC,thread
+"Flagstaff, AZ",null,Flagstaff,AZ,86001,USA,4,"35.174272, -111.66328","2,106",Open,null,SC,thread
+"Campogalliano, Italy",null,Campogalliano,,41011,Italy,2,"44.685971, 10.851913",42,Open,null,SC,forum
+Chiyodaku Palace Hotel-Japan,null,Tokyo,,,Japan,4,"35.684656, 139.761252",11,Open,null,SC,forum
+"Evanston, WY",null,Evanston,WY,82930,USA,8,"41.263404, -110.98558","2,080",Construction,null,SC,thread
+"Newburgh, NY",null,Newburgh,NY,12550,USA,6,"41.499775, -74.071261",104,Open,null,SC,thread
+"Revelstoke, BC",null,Revelstoke,BC,BC V0E,Canada,4,"51.009594, -118.218857",451,Open,null,SC,thread
+"Moab, UT",null,Moab,UT,84511,USA,4,"38.573122, -109.552368","1,224",Open,null,SC,thread
+"Guangzhou - Shenglin Building, China",null,Guangzhou,Guangdong,,China,2,"22.847557, 113.452776",-1,Open,null,SC,forum
+"Storjord, Norway",null,Storjord,,8255,Norway,4,"66.814045, 15.401738",103,Open,null,SC,forum
+"Herzsprung, Germany",null,Herzsprung,,16909,Germany,6,"53.06735, 12.53333",53,Open,null,SC,forum
+"Aix-en-Provence, France",null,Aix-en-Provence,,13100,France,4,"43.510637, 5.456429",140,Open,null,SC,forum
+"Santa Ana, CA",null,Santa Ana,CA,92705,USA,12,"33.776011, -117.872176",47,Open,null,SC,thread
+"La Crosse, WI",null,Onalaska,WI,54650,USA,6,"43.879042, -91.188428",219,Open,null,SC,thread
+"Port St. Lucie, FL",null,Port St. Lucie,FL,34986,USA,8,"27.313023, -80.406688",8,Open,null,SC,forum
+"Hong Kong-The Pulse, China",null,Hong Kong,Hong Kong,,China,4,"22.235273, 114.198504",21,Open,null,SC,forum
+"Nanjing Fullshare, China",null,Nanjing,Jiangsu,,China,6,"31.976229, 118.761432",32,Open,null,SC,forum
+"Occhiobello, Italy",null,Occhiobello,,45030,Italy,8,"44.918787, 11.594051",6,Open,null,SC,forum
+"Lampeland, Norway",null,Lampeland,,3621,Norway,8,"59.836224, 9.579221",188,Open,null,SC,thread
+"San Diego, CA",null,San Diego,CA,92121,USA,12,"32.902137, -117.193489",88,Open,null,SC,thread
+"Zhoushan Putuo - Haizhongzhou Hotel, China",null,Zhoushan,Zhejiang,,China,4,"29.966773, 122.316121",4,Open,null,SC,forum
+"Eau Claire, WI",null,Eau Claire,WI,54701,USA,6,"44.77083, -91.43711",293,Open,null,SC,thread
+"Traverse City, MI",null,Traverse City,MI,49684,USA,8,"44.743292, -85.64259",191,Permit,null,SC,thread
+"Nørre Alslev, Denmark",null,Nørre Alslev,,4840,Denmark,8,"54.900427, 11.898537",21,Open,null,SC,forum
+"Orange, France",null,Orange,,84100,France,8,"44.112164, 4.851759",61,Open,null,SC,forum
+"Darien, CT (south)",null,Darien,CT,6820,USA,4,"41.068167, -73.504659",14,Open,null,SC,forum
+"Xuzhou - New Century Grand Hotel, China",null,Xuzhou,Jiangsu,,China,2,"34.245064, 117.134447",29,Open,null,SC,forum
+"Brighouse Southbound, UK",null,Brighouse,,HD6 4JX,United Kingdom,8,"53.714315, -1.743758",141,Construction,null,SC,forum
+"Magliano, Italy",null,Magliano,,,Italy,8,"42.372085, 12.471703",59,Open,null,SC,thread
+"Sandane, Norway",null,Sandane,,6823,Norway,6,"61.778023, 6.213188",1,Open,null,SC,thread
+"Katowice, Poland",null,Katowice,,48 24 256 04 28,Poland,4,"50.254594, 19.046594",265,Open,null,SC,forum
+"Mücke, Germany",null,Mücke,,35325,Germany,6,"50.645417, 8.989917",314,Open,null,SC,forum
+"Aurland, Norway",null,Aurland,,5745,Norway,6,"60.89863, 7.21082",11,Open,null,SC,forum
+"Monterey, CA",null,Monterey,CA,93940,USA,10,"36.585509, -121.89868",67,Construction,null,SC,thread
+"Buffalo, NY",null,Buffalo,NY,14221,USA,8,"42.968673, -78.696128",213,Open,null,SC,thread
+"Fort Myers, FL",null,Fort Myers,FL,33913,USA,8,"26.48564, -81.787136",6,Open,null,SC,forum
+"Guangzhou - Huanan Auto Trade, China",null,Guangzhou,Guangdong,,China,4,"23.070509, 113.31295",4,Open,null,SC,forum
+"Rolla, MO",null,Rolla,MO,65401,USA,8,"37.940064, -91.801658",293,Open,null,SC,thread
+"Seabrook, NH",null,Seabrook,NH,3874,USA,8,"42.895182, -70.869351",16,Open,null,SC,thread
+"Blanding, UT",null,Blanding,UT,84511,USA,4,"37.625553, -109.473842","1,849",Open,null,SC,thread
+"Victoria, TX",null,Victoria,TX,77901,USA,6,"28.766853, -96.978988",23,Open,null,SC,thread
+"Aichstetten, Germany",null,Aichstetten,,88317,Germany,8,"47.880483, 10.039783",630,Open,null,SC,forum
+"Cincinnati, OH",null,Cincinnati,OH,45242,USA,8,"39.224429, -84.383415",258,Open,null,SC,thread
+"Hooksett (south), NH",null,Hooksett,NH,3106,USA,6,"43.109521, -71.477006",85,Open,null,SC,thread
+"Nossen, Germany",null,Nossen,,1683,Germany,6,"51.082468, 13.27406",252,Open,null,SC,thread
+"Handan, China",null,Handan,Hebei,,China,4,"36.656095, 114.564185",53,Open,null,SC,forum
+"Kurashiki, Japan",null,Kurashiki,Okayama Prefecture,,Japan,4,"34.578345, 133.769448",5,Open,null,SC,forum
+"Queensbury, NY",null,Queensbury,NY,12804,USA,8,"43.328388, -73.679992",130,Open,null,SC,thread
+"Lauenau, Germany",null,Lauenau,,31867,Germany,8,"52.278674, 9.350953",83,Open,null,SC,thread
+"Primm, NV",null,Primm,NV,89019,USA,10,"35.610687, -115.388028",795,Open,null,SC,thread
+"DeFuniak Springs, FL",null,DeFuniak Springs,FL,32435,USA,5,"30.720702, -86.116677",76,Open,null,SC,thread
+"Lavik, Norway",null,Lavik,,,Norway,10,"61.103869, 5.51268",16,Open,null,SC,forum
+Hong Kong-Elements,null,Hong Kong,Hong Kong,,China,4,"22.30488, 114.161519",22,Open,null,SC,forum
+"Kitzbühel, Austria",null,Kitzbühel,,6370,Austria,3,"47.459597, 12.385877",735,Open,null,SC,thread
+"Falkenberg, Sweden",null,Falkenberg,,311 50,Sweden,12,"56.93167, 12.51805",22,Open,null,SC,thread
+"Ghent, Belgium",null,Ghent,,,Belgium,8,"51.019861, 3.734917",12,Open,null,SC,thread
+"Changzhou-Changfa Plaza, China",null,Changzhou,Jiangsu,,China,6,"31.812589, 119.979492",8,Open,null,SC,forum
+"Cúllar, Spain",null,Cúllar,,,Spain,8,"37.554031, -2.613944",997,Open,null,SC,thread
+"Texarkana, TX",null,Texarkana,TX,75503,USA,8,"33.459926, -94.077179",100,Open,null,SC,thread
+"Al Qatraneh, Jordan",null,Al Karak,,,Jordan,4,"31.276475, 36.054488",773,Open,null,SC,thread
+"Hinckley, MN",null,Hinckley,MN,55037,USA,8,"46.009592, -92.93155",313,Open,null,SC,thread
+"Falls Creek, PA",null,Falls Creek,PA,15840,USA,8,"41.14072, -78.784725",425,Construction,null,SC,thread
+"Magog, QC",null,Magog,QC,J1X0J4,Canada,8,"45.281273, -72.185744",220,Open,null,SC,thread
+"Takasaski, Japan",null,Takasaski,,,Japan,2,"36.307802, 139.097401",73,Open,null,SC,forum
+"Sheboygan, WI",null,Sheboygan,WI,53081,USA,8,"43.749912, -87.747073",200,Open,null,SC,thread
+"Knoxville, TN",null,Knoxville,TN,37934,USA,8,"35.901319, -84.149634",286,Open,null,SC,thread
+"Kristianstad, Sweden",null,Kristianstad,,,Sweden,6,"56.023216, 14.11831",3,Open,null,SC,thread
+"Saintes, France",null,Saintes,,17100,France,8,"45.75, -0.661722",48,Open,null,SC,forum
+"Breezewood, PA",null,Breezewood,PA,15533,USA,8,"39.999705, -78.238536",395,Construction,null,SC,thread
+"Nanchang, China",null,Nanchang,Jiangxi,,China,4,"28.720737, 115.794675",25,Open,null,SC,forum
+"Kastrup, Denmark",null,Kastrup,,2770,Denmark,2,"55.614459, 12.613533",2,Open,null,SC,thread
+"Hoorn, Netherlands",null,Hoorn,,,Netherlands,4,"52.650769, 5.038917",-2,Open,null,SC,thread
+Zhongshan-Baihui Plaza,null,Zhongshan,Guangdong,,China,4,"22.55954, 113.456535",19,Open,null,SC,forum
+"Kapfenberg, Austria",null,Kapfenberg,,,Austria,8,"47.450336, 15.317516",514,Open,null,SC,thread
+"Ulm, Germany",null,Ulm,,89081,Germany,8,"48.457074, 10.030273",568,Open,null,SC,forum
+"Mount Vernon, IL",null,Mt. Vernon,IL,,USA,8,"38.316292, -88.955923",146,Open,null,SC,thread
+"Albacete, Spain",null,Albacete,,2110,Spain,8,"39.134675, -2.039013",705,Open,null,SC,thread
+"Gustine, CA",null,Gustine,CA,95322,USA,12,"37.109305, -121.017565",47,Open,null,SC,thread
+"San Juan del Río, Mexico",null,San Juan del Río,,76800,Mexico,6,"20.384501, -100.012926","1,921",Open,null,SC,forum
+"Junction, TX",null,Junction,TX,76849,USA,8,"30.509233, -99.77456",519,Open,null,SC,thread
+"Valenciennes, France",null,Rouvignies,,,France,10,"50.336704, 3.455931",51,Open,null,SC,forum
+"Truth or Consequences, NM",null,Truth or Consequences,NM,87901,USA,8,"33.15524, -107.251642","1,353",Open,null,SC,thread
+"Emporia, KS",null,Emporia,KS,66801,USA,8,"38.420693, -96.220147",363,Permit,null,SC,thread
+"San Mateo, CA",null,San Mateo,CA,94403,USA,8,"37.544632, -122.290188",3,Open,null,SC,thread
+"Kingston, NY",null,Kingston,NY,12401,USA,8,"41.941916, -74.027208",47,Open,null,SC,thread
+"Culver City, CA",null,Culver City,CA,90230,USA,16,"33.986779, -118.390213",13,Open,null,SC,thread
+"Zhengzhou - Join Auto-Putian Store, China",null,Zhengzhou,Henan,,China,4,"34.745298, 113.798207",85,Open,null,SC,forum
+"Heatherbrae, Australia",null,Heatherbrae,NSW,2234,Australia,6,"-32.787294, 151.728353",10,Open,null,SC,thread
+"London Tower, UK",null,London,,E1W 1LD,United Kingdom,2,"51.506333, -0.072778",12,Open,null,SC,forum
+"Atascadero, CA",null,Atascadero,CA,93422,USA,8,"35.48656, -120.66633",262,Open,null,SC,forum
+"Fresno, CA",null,Fresno,CA,93704,USA,10,"36.835455, -119.91058",91,Open,null,SC,thread
+"Watertown, NY",null,Watertown,NY,13601,USA,8,"43.979585, -75.954114",156,Open,null,SC,forum
+"Wittenburg, Germany",null,Wittenburg,,,Germany,6,"53.507389, 11.096827",40,Open,null,SC,forum
+"Schaffhausen, Switzerland",null,Schaffhausen,,8207,Switzerland,8,"47.721034, 8.646353",469,Open,null,SC,thread
+"Slagelse, Denmark",null,Slagelse,,4200,Denmark,10,"55.387922, 11.361762",48,Open,null,SC,thread
+"Dartford, UK",null,London,,DA9 9ST,United Kingdom,5,"51.438052, 0.26879",16,Open,null,SC,thread
+"Little Rock, AR",null,Little Rock,AR,,USA,10,"34.6614, -92.41031",95,Open,null,SC,thread
+"Pozna?, Poland",null,Pozna?,,60-751,Poland,4,"52.399723, 16.894948",85,Open,null,SC,thread
+"Dujiangyan Cuiyuehu - Mirror Lake Hotel, China",null,Dujiangyan,Sichuan,,China,2,"30.899872, 103.645096",659,Open,null,SC,forum
+"Country Club Hills, IL",null,Country Club Hills,IL,60478,USA,8,"41.584927, -87.721062",205,Open,null,SC,thread
+"Hamburg, Tesla Service Center, Germany",null,Hamburg,,22419,Germany,2,"53.668642, 9.995189",24,Open,null,SC,thread
+"West Melbourne, FL",null,West Melbourne,FL,32904,USA,10,"28.036872, -80.664945",8,Permit,null,SC,thread
+"Detroit Lake, OR",null,Detroit,OR,97342,USA,6,"44.737025, -122.152108",492,Open,null,SC,forum
+"Modena, Italy",null,Modena,,41126,Italy,6,"44.574119, 10.981157",47,Open,null,SC,forum
+"Canary Wharf, UK",null,London,,E14 5EW,United Kingdom,4,"51.504346, -0.016146",293,Open,null,SC,forum
+"Big Timber, MT",null,Big Timber,MT,59011,USA,4,"45.836945, -109.944577","1,245",Open,null,SC,thread
+"West Springfield, MA",null,West Springfield,MA,1089,USA,8,"42.130914, -72.621435",17,Open,null,SC,thread
+"Buckeye, AZ",null,Buckeye,AZ,85326,USA,8,"33.443011, -112.556876",338,Open,null,SC,thread
+"Weatherford, OK",null,Weatherford,OK,73096,USA,6,"35.53859, -98.66012",485,Open,null,SC,thread
+"Albany, NY",null,Albany,NY,12205,USA,6,"42.710356, -73.819109",88,Open,null,SC,thread
+"Paimio, Finland",null,Paimio,,21530,Finland,4,"60.442961, 22.605621",18,Open,null,SC,thread
+"Stjørdal, Norway",null,Stjørdal,,7503,Norway,6,"63.466512, 10.917647",2,Open,null,SC,thread
+"Red Deer, AB",null,Red Deer,AB,T4N 3X9,Canada,4,"52.251899, -113.814659",878,Open,null,SC,thread
+"Hays, KS",null,Hays,KS,67601,USA,6,"38.900543, -99.319142",626,Open,null,SC,thread
+"Burbank-Town Center, CA",null,Burbank,CA,91502,USA,20,"34.18487, -118.311672",190,Construction,null,SC,thread
+"Fukuoka, Japan",null,Fukuoka,,811-2221,Japan,6,"33.588526, 130.497193",22,Open,null,SC,forum
+"Ballacolla, Ireland",null,Ballacolla,,,Ireland,8,"52.86704, -7.481818",92,Open,null,SC,thread
+"Bristol - M5, UK",null,Bristol,,BS20 7XG,United Kingdom,8,"51.477207, -2.706308",12,Open,null,SC,thread
+"Coeur d'Alene, ID",null,Coeur d'Alene,ID,83815,USA,6,"47.708479, -116.794283",685,Open,null,SC,thread
+"Augusta, ME",null,Augusta,ME,4330,USA,8,"44.34787, -69.786088",96,Open,null,SC,thread
+"St. Moritz, Switzerland",null,St. Moritz,,7500,Switzerland,4,"46.496797, 9.84272","1,786",Open,null,SC,thread
+"Morgantown, WV",null,Morgantown,WV,,USA,8,"39.579175, -79.953493",401,Construction,null,SC,thread
+"Auxerre, France",null,Appoigny,,89380,France,8,"47.85183, 3.542802",99,Open,null,SC,forum
+"Chengdu, China",null,Chengdu,Sichuan,,China,6,"30.714582, 104.009476",508,Open,null,SC,forum
+"Arezzo, Italy",null,Arezzo,,52100,Italy,8,"43.437399, 11.777607",264,Open,null,SC,forum
+"München-Feldkirchen service center, Germany",null,Feldkirchen,,85622,Germany,2,"48.145652, 11.741631",527,Open,null,SC,thread
+"Mammoth Lakes, CA",null,Mammoth Lakes,CA,93546,USA,8,"37.644544, -118.965875","2,390",Open,null,SC,thread
+"Fort MacLeod, AB",null,Fort MacLead,AB,T0L 0Z0,Canada,8,"49.724991, -113.397336",946,Open,null,SC,thread
+"Rapid City, SD",null,Rapid City,SD,57701,USA,4,"44.105601, -103.212569","1,006",Open,null,SC,forum
+"Brive-la-Gaillarde, France",null,Ussac,,19270,France,8,"45.16724, 1.483119",107,Open,null,SC,forum
+"Grantham, UK",null,Grantham,,NG32 2AB,United Kingdom,8,"52.948794, -0.677802",44,Open,null,SC,forum
+"Vacaville, CA",null,Vacaville,CA,95687,USA,10,"38.366645, -121.958136",34,Open,null,SC,thread
+"Comber, ON",null,Comber,ON,N0P 1J0,Canada,8,"42.238789, -82.550873",182,Open,null,SC,thread
+"Xi'an Gaoxin, China",null,Xi'an,Shanxi,,China,4,"34.200007, 108.917655",417,Open,null,SC,forum
+"Hooksett (north), NH",null,Hooksett,NH,3106,USA,6,"43.110063, -71.475087",85,Open,null,SC,thread
+"Shanghai K11 Art Mall, China",null,Shanghai,Shanghai,,China,6,"31.223318, 121.473305",18,Open,null,SC,forum
+"Chengdu Yintai Center, China",null,Chengdu,Sichuan,610016,China,6,"30.585632, 104.068655",498,Open,null,SC,forum
+"Kriegstetten, Switzerland",null,Kriegstetten,,,Switzerland,4,"47.175148, 7.598148",454,Permit,null,SC,forum
+"Colorado Springs, CO",null,Colorado Springs,CO,80903,USA,8,"38.837573, -104.824907","1,835",Open,null,SC,thread
+"Lone Tree, CO",null,Lone Tree,CO,80124,USA,4,"39.561044, -104.87564","1,785",Open,null,SC,thread
+"Farmington, NM",null,Farmington,NM,87402,USA,4,"36.766371, -108.144047","1,673",Open,null,SC,thread
+"Tannersville, PA",null,Tannersville,PA,18372,USA,8,"41.045431, -75.312244",284,Open,null,SC,thread
+"West Drayton, UK",null,London,Greater London,UB7 8HZ,United Kingdom,5,"51.511647, -0.461166",30,Open,null,SC,thread
+"Panjin-Yinlong Hotel, China",null,Panjin,Liaoning,,China,4,"41.240311, 121.991402",3,Open,null,SC,forum
+"Ceprano, Italy",null,Ceprano,,3024,Italy,8,"41.544226, 13.511958",98,Open,null,SC,forum
+"Auburn, AL",null,Auburn,AL,,USA,6,"32.627837, -85.445105",222,Open,null,SC,thread
+"Ulanqab-Aowei Plaza, China",null,Ulanqab,Suiyuan,,China,4,"41.035297, 113.110115","1,402",Open,null,SC,forum
+"Slidell, LA",null,Slidell,LA,70458,USA,8,"30.266552, -89.760156",3,Open,null,SC,thread
+"Hangzhou Xiacheng, China",null,Hangzhou,Zhejiang,,China,8,"30.313127, 120.165145",36,Open,null,SC,forum
+"Shanghai, Minhang, Wubao Rd",null,Shanghai,Shanghai,201100,China,2,"31.170563, 121.341869",8,Open,null,SC,forum
+"Salina, KS",null,Salina,KS,67401,USA,6,"38.877342, -97.618699",371,Open,null,SC,thread
+"Santee, SC",null,Santee,SC,29142,USA,6,"33.485858, -80.475763",39,Open,null,SC,thread
+"Nes, Norway",null,Nes i Ådal,,,Norway,12,"60.58475, 9.985092",152,Open,null,SC,thread
+"Elverum, Norway",null,Elverum,,2406,Norway,8,"60.884145, 11.540043",44,Open,null,SC,forum
+"Löddeköpinge, Sweden",null,Löddeköpinge,,,Sweden,8,"55.766399, 12.990671",10,Open,null,SC,thread
+"Urvillers, France",null,Urvillers,,,France,8,"49.787019, 3.335626",104,Open,null,SC,forum
+"Grenada, MS",null,Grenada,MS,38901,USA,8,"33.787384, -89.849614",87,Open,null,SC,thread
+"Ocala, FL",null,Ocala,FL,34474,USA,8,"29.140985, -82.19395",23,Open,null,SC,thread
+"Affi, Italy",null,Affi,,,Italy,8,"45.551296, 10.787143",189,Open,null,SC,forum
+"Warwick Southbound, UK",null,Warwick,,CV35 0AA,United Kingdom,8,"52.219105, -1.502085",83,Open,null,SC,forum
+"Three Rivers, TX",null,Three Rivers,TX,78071,USA,8,"28.521614, -98.185829",51,Open,null,SC,thread
+"Richfield, UT",null,Richfield,UT,84701,USA,4,"38.788161, -112.083841","1,659",Open,null,SC,thread
+"Shamrock, TX",null,Shamrock,TX,79079,USA,6,"35.226765, -100.24836",704,Open,null,SC,thread
+"Montreal (SC), QC",null,Montreal,QC,H4P 1L9,Canada,2,"45.496185, -73.658793",46,Open,null,SC,thread
+"Haukås, Norway",null,Nyborg,,5131,Norway,6,"60.484297, 5.375426",70,Open,null,SC,thread
+"Køge, Denmark",null,Køge,,,Denmark,12,"55.489273, 12.162788",32,Open,null,SC,thread
+"Huntsville, ON",null,Huntsville,ON,,Canada,9,"45.333611, -79.206703",300,Open,null,SC,thread
+"Effingham, IL",null,Effingham,IL,62401,USA,6,"39.137048, -88.563736",184,Open,null,SC,thread
+"Pyhäjärvi, Finland",null,Pyhäjärvi,,86800,Finland,4,"63.716298, 25.920103",160,Open,null,SC,forum
+Huangshan Yuanyi Baizhuang,null,Huangshan,Anhui,245000,China,4,"29.702871, 118.31356",130,Open,null,SC,forum
+"Heathrow Airport Terminal 5, UK",null,"Colnbrook, Slough",,SL3 0FF,United Kingdom,8,"51.478181, -0.515753",22,Open,null,SC,forum
+"Ellwangen, Germany",null,Ellwangen,,73479,Germany,8,"48.955921, 10.182282",506,Open,null,SC,thread
+"Shaoguan-Sun City, China",null,Shaoguan,Guangdong,,China,4,"24.762329, 113.545654",122,Open,null,SC,forum
+"Folsom, CA",null,Folsom,CA,95630,USA,4,"38.64258, -121.18806",63,Open,null,SC,forum
+"Centralia, WA",null,Centralia,WA,98531,USA,10,"46.729732, -122.977454",56,Open,null,SC,forum
+"Vinje, Norway",null,Vinje,,3890,Norway,8,"59.570131, 7.992551",457,Open,null,SC,thread
+"Grimsby, ON",null,Grimsby,ON,L3M 4E8,Canada,8,"43.209814, -79.601404",82,Open,null,SC,thread
+"Solli, Norway",null,Solli,,1719,Norway,10,"59.324292, 10.954448",6,Open,null,SC,forum
+"Nimes, France",null,Nimes,,30900,France,8,"43.815364, 4.344721",34,Open,null,SC,forum
+"Denver, CO",null,Denver,CO,80239,USA,6,"39.775259, -104.794674","1,641",Open,null,SC,thread
+"Statesville, NC",null,Statesville,NC,28625,USA,8,"35.781958, -80.860368",273,Permit,null,SC,thread
+"Tours, France",null,Rochecorbon,,37210,France,8,"47.407325, 0.744827",66,Open,null,SC,forum
+"North East, MD",null,North East,MD,21901,USA,8,"39.612323, -76.009855",111,Construction,null,SC,thread
+"Glenwood Springs, CO",null,Glenwood Springs,CO,81601,USA,6,"39.55268, -107.340168","1,762",Open,null,SC,thread
+"Gila Bend, AZ",null,Gila Bend,AZ,85337,USA,8,"32.943969, -112.733506",221,Open,null,SC,thread
+"Brighouse Northbound, UK",null,Brighouse,,HD6 4JX,United Kingdom,8,"53.713586, -1.746893",141,Construction,null,SC,forum
+"Goulburn, Australia",null,Goulburn,NSW,2580,Australia,8,"-34.755597, 149.720984",635,Open,null,SC,thread
+"Aarhus, Denmark",null,Aarhus,,8210,Denmark,6,"56.178223, 10.139406",67,Open,null,SC,thread
+"Schweitenkirchen, Germany",null,Schweitenkirchen,,85301,Germany,8,"48.510724, 11.58227",511,Open,null,SC,thread
+"Asheville, NC",null,Asheville,NC,,USA,8,"35.531391, -82.604487",662,Open,null,SC,thread
+"Maidstone, UK",null,Maidstone,Kent,ME14,United Kingdom,6,"51.286224, 0.545783",66,Open,null,SC,thread
+"Guangzhou Tianhe - Zhongsen Gourmet 100, China",null,Guangzhou,Guangdong,,China,4,"23.141028, 113.375964",8,Open,null,SC,forum
+"Heusden-Zolder, Belgium",null,Heusden-Zolder,,,Belgium,12,"50.993363, 5.242222",31,Open,null,SC,forum
+"Plantation, FL",null,Plantation,FL,33324,USA,8,"26.108614, -80.252268",1,Open,null,SC,thread
+"Sisteron, France",null,Sisteron,,,France,4,"44.226199, 5.913554",505,Open,null,SC,forum
+"Hamamatsu ??, Japan",null,Hamamatsu,,,Japan,4,"34.840437, 137.748006",91,Open,null,SC,forum
+"Lumberton, NC",null,Lumberton,NC,28358,USA,4,"34.667629, -79.002343",40,Open,null,SC,thread
+"Luoyang-Huayang, China",null,Luoyang,Henan,,China,4,"34.65285, 112.406133",157,Open,null,SC,forum
+"La Vale, MD",null,Cumberland,MD,21502,USA,8,"39.635724, -78.844459",329,Construction,null,SC,thread
+"Ogallala, NE",null,Ogallala,NE,69153,USA,8,"41.116493, -101.709415",977,Open,null,SC,thread
+"Osaka Suehirocho - Panasonic, Japan",null,Osaka,,530-0041,Japan,4,"34.700941, 135.51077",9,Open,null,SC,forum
+"Port Huron, MI",null,Port Huron,MI,48060,USA,8,"42.998817, -82.428935",182,Open,null,SC,thread
+"Châteauroux, France",null,Coings,,36130,France,8,"46.863058, 1.716048",160,Open,null,SC,thread
+"Cuernavaca, Mexico",null,Cuernavaca,,62370,Mexico,6,"18.934819, -99.192297","1,517",Open,null,SC,thread
+"Chengdu Yanlord, China",null,Chengdu,Sichuan,610016,China,4,"30.651599, 104.067022",498,Open,null,SC,forum
+"Royal Victoria Docks, UK",null,London,,E16 1GB,United Kingdom,2,"51.507022, 0.015928",2,Open,null,SC,thread
+"Moosic, PA",null,Moosic,PA,18507,USA,8,"41.361979, -75.676596",320,Open,null,SC,thread
+"Wodonga, Australia",null,Wodonga,VIC,3690,Australia,6,"-36.123962, 146.889889",168,Open,null,SC,thread
+Aire de Reims-Champagne-Sud,null,Les Petites-Loges,,,France,6,"49.120781, 4.24261",119,Open,null,SC,forum
+"Sulz-Vöhringen, Germany",null,Vöhringen,,72189,Germany,6,"48.343115, 8.662612",495,Open,null,SC,thread
+"Klett, Norway",null,Klett,,,Norway,8,"63.325319, 10.305137",32,Open,null,SC,thread
+"Salt Lake City, UT",null,Salt Lake City,UT,84115,USA,10,"40.7209, -111.888395","1,297",Open,null,SC,thread
+"Arlington, WA",null,Arlington,WA,,USA,16,"48.21237, -122.183551",94,Open,null,SC,thread
+"Bozeman, MT",null,Bozeman,MT,59715,USA,4,"45.700078, -111.062569","1,442",Open,null,SC,thread
+"Örnsköldsvik, Sweden",null,Örnsköldsvik,,,Sweden,6,"63.291556, 18.706134",9,Open,null,SC,forum
+"Satteldorf, Germany",null,Satteldorf,,74589,Germany,6,"49.181658, 10.068557",431,Open,null,SC,thread
+"Strasburg, VA",null,Strasburg,VA,22657,USA,6,"39.00496, -78.337836",204,Open,null,SC,thread
+"Corning, CA",null,Corning,CA,96021,USA,6,"39.926454, -122.198393",87,Open,null,SC,forum
+"Cheyenne, WY",null,Cheyenne,WY,82009,USA,4,"41.161085, -104.804955","1,859",Open,null,SC,thread
+"Dongguan - Songshan Lake, China",null,Dongguan,Guangdong,,China,4,"22.952909, 113.888298",19,Open,null,SC,forum
+"Shaoxing Yuecheng - Tianyuan International Building, China",null,Shaoxing,Zhejiang,,China,6,"30.000048, 120.603519",7,Open,null,SC,thread
+"Reno, NV",null,Reno,NV,89509,USA,6,"39.489732, -119.794179","1,356",Open,null,SC,thread
+"Bristol, TN",null,Bristol,TN,37620,USA,8,"36.591697, -82.261339",549,Open,null,SC,thread
+"Northampton, UK",null,Northampton,,NN4 5EZ,United Kingdom,6,"52.185729, -0.89127",81,Open,null,SC,forum
+"Brush, CO",null,Brush,CO,80723,USA,8,"40.270895, -103.62223","1,289",Open,null,SC,thread
+"Lyngdal, Norway",null,Lyngdal,,4580,Norway,8,"58.15653, 7.10298",12,Open,null,SC,forum
+"Lexington, VA",null,Lexington,VA,,USA,6,"37.796979, -79.419007",319,Open,null,SC,thread
+"Chenzhou - Yizhang, China",null,Chenzhou,Hunan,,China,4,"25.401274, 112.977646",336,Open,null,SC,forum
+"Rocky Mount, NC",null,Rocky Mount,NC,27804,USA,8,"35.972874, -77.84687",40,Open,null,SC,thread
+"Gweirah, Jordan",null,Aqaba,,,Jordan,4,"29.825562, 35.332523",830,Open,null,SC,forum
+"Tupelo, MS",null,Tupelo,MS,38804,USA,8,"34.311515, -88.700843",83,Open,null,SC,thread
+"Lier (south), Norway",null,Lier,,3400,Norway,8,"59.766259, 10.257838",17,Open,null,SC,thread
+Beijing - Youth Road,null,Beijing,Beijing,,China,8,"39.922634, 116.516151",36,Open,null,SC,forum
+"Oto?ac, Croatia",null,Kompolje,,53226,Croatia,6,"44.893164, 15.183865",443,Construction,null,SC,thread
+"Westfield White City, London",null,London,,W12 7GD,United Kingdom,8,"51.507888, -0.221972",9,Open,null,SC,forum
+"North Aurora, IL",null,North Aurora,IL,60542,USA,8,"41.802949, -88.370249",212,Open,null,SC,thread
+"Shijiazhuang-Haiyue, China",null,Shijiazhuang,Hebei,,China,6,"38.034492, 114.471977",78,Open,null,SC,forum
+"Cheonan, South Korea",null,??,,,South Korea,6,"36.757187, 127.224121",105,Open,null,SC,forum
+"Ya'an, China",null,Ya'an,Sichuan,,China,4,"29.989832, 103.006912",581,Open,null,SC,forum
+"Tainan, Taiwan",null,Tainan,,,Taiwan,8,"22.936091, 120.221582",8,Open,null,SC,forum
+"London, KY",null,London,KY,40741,USA,6,"37.14916, -84.11385",361,Open,null,SC,thread
+"Jettingen-Scheppach, Germany",null,Jettingen,,89343,Germany,6,"48.411685, 10.439755",462,Open,null,SC,forum
+"Bend, OR",null,Bend,OR,97702,USA,8,"44.03563, -121.308473","1,142",Open,null,SC,thread
+"Sangerhausen, Germany",null,Sangerhausen,,6526,Germany,6,"51.450532, 11.304467",148,Open,null,SC,thread
+"Bygland, Norway",null,Bygland,,,Norway,8,"58.82792, 7.796114",208,Open,null,SC,thread
+"Regensburg, Germany",null,Regensburg,,93055,Germany,8,"48.994967, 12.150416",333,Open,null,SC,thread
+"Burlington, WA",null,Burlington,WA,98233,USA,8,"48.509772, -122.338625",7,Open,null,SC,forum
+"Cavaglià, Italy",null,Cavaglià,,13881,Italy,8,"45.38967, 8.128911",221,Open,null,SC,forum
+"Zaragoza, Spain",null,Zaragoza,,,Spain,4,"41.625393, -1.01103",322,Construction,null,SC,forum
+"Wertheim, Germany",null,Wertheim,,97877,Germany,6,"49.770564, 9.576403",153,Open,null,SC,thread
+"Plymouth, NC",null,Plymouth,NC,27962,USA,8,"35.850587, -76.756116",5,Open,null,SC,thread
+"Lima, MT",null,Lima,MT,59739,USA,8,"44.632745, -112.591203","1,912",Open,null,SC,thread
+"Midland, TX",null,Midland,TX,79703,USA,8,"31.947565, -102.142205",865,Open,null,SC,thread
+"Pocatello, ID",null,Pocatello,ID,83201,USA,8,"42.899615, -112.435248","1,409",Open,null,SC,thread
+"Pratteln, Switzerland",null,Pratteln,,,Switzerland,4,"47.524843, 7.682486",292,Open,null,SC,thread
+"Aberdeen, WA",null,Aberdeen,WA,98520,USA,8,"46.976679, -123.813485",132,Open,null,SC,thread
+Aire de Reims-Champagne-Nord,null,Les Petites-Loges,,,France,6,"49.119348, 4.245689",119,Open,null,SC,forum
+"Lully, Switzerland",null,Lully,,1470,Switzerland,6,"46.832233, 6.859269",490,Open,null,SC,forum
+"Rock Springs, WY",null,Rock Springs,WY,82901,USA,8,"41.580814, -109.262159","1,904",Construction,null,SC,thread
+"Hirschberg, Germany",null,Hirschberg,,69493,Germany,8,"49.507337, 8.637361",98,Open,null,SC,thread
+Zhaoqing - Phoenix Hotel,null,Zhaoqing,Guangdong,,China,4,"23.00935, 112.456787",10,Open,null,SC,forum
+"Ariza, Spain",null,Ariza,,50220,Spain,6,"41.313192, -2.002201",726,Open,null,SC,forum
+"Nashville, TN",null,Nashville,TN,37027,USA,6,"35.969209, -86.804641",226,Open,null,SC,thread
+"Ger, France",null,Ger,,,France,4,"43.230222, -0.07773",425,Permit,null,SC,forum
+"Waterloo, NY",null,Waterloo,NY,13165,USA,8,"42.970012, -76.846134",156,Open,null,SC,thread
+"Independence, MO",null,Independence,MO,64055,USA,6,"39.040814, -94.369265",245,Open,null,SC,thread
+"Toronto (SC), ON",null,Toronto,ON,M3A 1C6,Canada,8,"43.740222, -79.322389",138,Open,null,SC,thread
+"Mosjøen, Norway",null,Mosjøen,,8651,Norway,6,"65.834836, 13.191673",0,Open,null,SC,forum
+"Kaiserslautern Eselsfürth, Germany",null,Kaiserslautern,,67657,Germany,8,"49.459902, 7.82134",255,Open,null,SC,thread
+"Redondo Beach, CA",null,Redondo Beach,CA,90278,USA,8,"33.894294, -118.367379",21,Open,null,SC,thread
+"Senj, Croatia",null,Senj,,53270,Croatia,4,"44.989707, 14.89947",1,Open,null,SC,thread
+"Wilmington, NC",null,Wilmington,NC,28405,USA,10,"34.240825, -77.829189",7,Open,null,SC,thread
+"Erftstadt, Germany",null,Erftstadt,,50374,Germany,8,"50.796469, 6.780077",100,Open,null,SC,forum
+"Coralville, IA",null,Coralville,IA,,USA,8,"41.680372, -91.591467",205,Open,null,SC,thread
+"Laurel, MD",null,Laurel,MD,20707,USA,8,"39.095382, -76.858319",55,Open,null,SC,thread
+"Winchester - Norton Park, UK",null,Winchester,,,United Kingdom,2,"51.16725, -1.328024",90,Open,null,SC,forum
+"Albaret-Sainte-Marie, France",null,Albaret-Sainte-Marie,,48200,France,8,"44.870977, 3.252918","1,066",Open,null,SC,forum
+"Seoul - Gangnam, South Korea",null,??,,,South Korea,5,"37.509215, 127.06079",30,Open,null,SC,forum
+"Lafayette, IN",null,Lafayette,IN,47905,USA,8,"40.416187, -86.814084",202,Open,null,SC,thread
+"Orlando, FL",null,Orlando,FL,32835,USA,6,"28.514874, -81.500214",1,Open,null,SC,thread
+"Palmanova, Italy",null,Palmanova,,,Italy,8,"45.884158, 13.344976",18,Open,null,SC,forum
+"Carpiano, Italy",null,Carpiano,,20080,Italy,6,"45.34834, 9.282206",87,Open,null,SC,forum
+"Pearl, MS",null,Pearl,MS,39208,USA,8,"32.274159, -90.151048",79,Open,null,SC,thread
+"Hilpoltstein, Germany",null,Hilpoltstein,,91161,Germany,6,"49.160465, 11.26101",425,Open,null,SC,thread
+"Cerignola, Italy",null,Cerignola,,71042,Italy,8,"41.306389, 15.899738",67,Open,null,SC,forum
+"Tilburg, Netherlands",null,Tilburg,,5047 RG,Netherlands,2,"51.606331, 5.005621",5,Open,null,SC,thread
+"Weston, WV",null,Weston,WV,26452,USA,8,"39.019586, -80.418562",329,Construction,null,SC,thread
+"Wiesbaden, Germany",null,Wiesbaden,,65205,Germany,4,"50.059472, 8.346059",152,Open,null,SC,thread
+"Grants Pass, OR",null,Grants Pass,OR,97526,USA,4,"42.460883, -123.324124",335,Open,null,SC,forum
+"Melbourne - Richmond, Australia",null,Richmond,Victoria,3121,Australia,4,"-37.831997, 144.995807",16,Open,null,SC,thread
+"Skellefteå, Sweden",null,Skellefteå,,93176,Sweden,6,"64.76235, 21.002864",80,Open,null,SC,thread
+"Manteca, CA",null,Manteca,CA,95337,USA,8,"37.782622, -121.228683",9,Open,null,SC,thread
+"Zurich - Dietlikon, Switzerland",null,Dietlikon,,8305,Switzerland,6,"47.413063, 8.616766",436,Open,null,SC,thread
+"Las Vegas, NV",null,Las Vegas,NV,89101,USA,6,"36.165906, -115.138655",609,Open,null,SC,thread
+"Tremonton, UT",null,Tremonton,UT,84337,USA,6,"41.70995, -112.198576","1,317",Open,null,SC,thread
+"Humpolec, Czech Republic",null,Humpolec,,39601,Czech Republic,6,"49.521746, 15.347476",593,Open,null,SC,thread
+"Calais, France",null,Coquelles,,62231,France,6,"50.924425, 1.80414",23,Open,null,SC,forum
+"Hong Kong - Olympian City, China",null,Hong Kong,Hong Kong,,China,4,"22.32005, 114.158158",19,Open,null,SC,forum
+"Twin Falls, ID",null,Twin Falls,ID,83301,USA,8,"42.597887, -114.455249","1,098",Open,null,SC,thread
+"Horsham, Australia",null,Horsham,Victoria,3400,Australia,4,"-36.71584, 142.19348",128,Permit,null,SC,thread
+"Santa Fe, NM",null,Santa Fe,NM,87507,USA,8,"35.611793, -106.032196","1,961",Open,null,SC,thread
+"Woodbridge, VA",null,Woodbridge,VA,22192,USA,8,"38.64082, -77.29633",63,Open,null,SC,thread
+"Middelfart, Denmark",null,Middelfart,,5500,Denmark,12,"55.510639, 9.764306",26,Open,null,SC,thread
+Albuquerque NM,null,Albuquerque,NM,87107,USA,6,"35.108962, -106.612794","1,558",Open,null,SC,thread
+"Beijing - Central Place, China",null,Beijing,Beijing,,China,8,"39.90871, 116.48053",43,Open,null,SC,forum
+"Innhavet, Norway",null,Innhavet,,8260,Norway,4,"67.962327, 15.9298",9,Open,null,SC,thread
+"Shenyang Huafu Xintiandi, China",null,Shenyang,Liaoning,,China,4,"41.811405, 123.43588",55,Open,null,SC,forum
+"Langon, France",null,Langon,,33210,France,4,"44.54244, -0.253972",26,Open,null,SC,forum
+"Arlon, Belgium",null,Arlon,,,Belgium,6,"49.647755, 5.819677",359,Open,null,SC,thread
+"Shanghai Jiading Auto City, China",null,Shanghai,Shanghai,,China,6,"31.27969, 121.16766",5,Open,null,SC,thread
+"Telford, UK",null,Telford,,,United Kingdom,8,"52.677334, -2.399552",114,Construction,null,SC,thread
+"Machelen, Belgium",null,Machelen,,,Belgium,8,"50.887736, 4.453052",42,Open,null,SC,thread
+"Hopewell Centre, Hong Kong, China",null,Hong Kong,Hong Kong,,China,10,"22.274495, 114.171429",73,Open,null,SC,forum
+"Hjørring, Denmark",null,Hjørring,,9800,Denmark,8,"57.455791, 10.04227",24,Open,null,SC,thread
+"Grove City, OH",null,Grove City,OH,43123,USA,8,"39.877253, -83.063448",243,Open,null,SC,thread
+"Tebay Southbound, UK",null,Orton,,CA10 3SB,United Kingdom,8,"54.453104, -2.605743",214,Construction,null,SC,forum
+"Mojave, CA",null,Mojave,CA,93501,USA,6,"35.068595, -118.174576",866,Open,null,SC,thread
+"Le Mans, France",null,La Chapelle St Aubin,France,72650,France,8,"48.041833, 0.175342",0,Open,null,SC,forum
+"Gävle, Sweden",null,Gävle,,805 91,Sweden,8,"60.648513, 17.120583",37,Open,null,SC,forum
+"Jung, Sweden",null,Jung,,,Sweden,6,"58.328002, 13.132237",73,Open,null,SC,forum
+"Butte, MT",null,Butte,MT,59701,USA,6,"45.981226, -112.507161","1,666",Open,null,SC,thread
+"Rolling Meadows, IL",null,Rolling Meadows,IL,60008,USA,10,"42.050188, -87.995686",219,Permit,null,SC,thread
+"Guiyang - Sofitel, China",null,Guiyang,Guizhou,,China,8,"26.575317, 106.719193","1,069",Open,null,SC,forum
+"Bandon, OR",null,Bandon,OR,97411,USA,8,"43.120781, -124.39905",22,Open,null,SC,thread
+"Yanan - Longhua Hotel, China",null,Yanan,Shaanxi,,China,4,"36.588867, 109.468124","1,080",Open,null,SC,forum
+"Wuhan - Brabus Auto Park, China",null,Wuhan,Hubei,,China,6,"30.479657, 114.190621",25,Open,null,SC,forum
+"Exeter, UK",null,Exeter,,EX3 0QH,United Kingdom,2,"50.685442, -3.448837",6,Open,null,SC,forum
+"Tifton, GA",null,Tifton,GA,31794,USA,8,"31.448847, -83.53221",92,Open,null,SC,thread
+"Brandon, FL",null,Brandon,FL,33511,USA,8,"27.940831, -82.323648",12,Open,null,SC,thread
+"Las Vegas Blvd South, NV",null,Las Vegas,NV,89119,USA,10,"36.070633, -115.17295",673,Open,null,SC,thread
+"Ritzville, WA",null,Ritzville,WA,99169,USA,4,"47.116294, -118.368328",570,Open,null,SC,thread
+"Sausheim, France",null,Sausheim,,68390,France,8,"47.782016, 7.388299",242,Open,null,SC,thread
+"Decatur, GA",null,Decatur,GA,30033,USA,4,"33.793217, -84.285379",310,Open,null,SC,thread
+"Seoul - Yeoido, South Korea",null,?????,,,South Korea,5,"37.52526, 126.925714",17,Open,null,SC,forum
+"Beijing-Yizhuang, China",null,Beijing,Beijing,,China,4,"39.799729, 116.518017",31,Open,null,SC,forum
+"Duluth, MN",null,Duluth,MN,55802,USA,4,"46.784467, -92.10232",200,Open,null,SC,thread
+"Chasseneuil-du-Poitou, France",null,Chasseneuil-du-Poitou,,86360,France,8,"46.670356, 0.362651",81,Open,null,SC,forum
+"Toulouse, France",null,Toulouse,,31620,France,8,"43.769334, 1.361378",113,Open,null,SC,thread
+"Aire de Saint-Priest, France",null,Saint-Priest,,,France,6,"45.698042, 4.975513",236,Open,null,SC,forum
+"Memphis, TN",null,Memphis,TN,38119,USA,8,"35.097801, -89.858957",95,Open,null,SC,thread
+"Kunming Panlong - Junfa Center, China",null,Kunming,Yunnan,,China,6,"25.063389, 102.723335","1,900",Open,null,SC,thread
+"Hope, BC",null,Hope,BC,V0X 1L0,Canada,6,"49.37829, -121.442822",44,Open,null,SC,thread
+"Cordes Lakes, AZ",null,Mayer,AZ,86333,USA,8,"34.327131, -112.118432","1,150",Open,null,SC,thread
+"Beatty, NV",null,Beatty,NV,89003,USA,8,"36.913718, -116.754371","1,011",Open,null,SC,thread
+"San Marcos, TX",null,San Marcos,TX,78666,USA,5,"29.827692, -97.979677",202,Open,null,SC,forum
+"Edinburgh Airport, UK",null,Edinburgh,,,United Kingdom,2,"55.945361, -3.366667",32,Open,null,SC,forum
+"Green Bay, WI",null,Green Bay,WI,,USA,8,"44.535432, -88.077779",188,Construction,null,SC,thread
+"Mogliano Veneto, Italy",null,Mogliano Veneto,,,Italy,8,"45.584722, 12.287137",5,Open,null,SC,forum
+"Graz, Austria",null,Graz,,8042,Austria,4,"47.037208, 15.478644",348,Open,null,SC,thread
+"Birmingham-Hopwood Park, UK",null,Birmingham,,B48 7AU,United Kingdom,6,"52.363197, -1.945572",125,Open,null,SC,thread
+"Clearwater, MN",null,Clearwater,MN,55320,USA,8,"45.411899, -94.054852",304,Open,null,SC,thread
+"Uckerfelde, Germany",null,Uckerfelde,,17291,Germany,4,"53.23499, 13.98606",68,Open,null,SC,thread
+"Shanghai-Kempinski Hotel, China",null,Shanghai,Shanghai,200120,China,4,"31.242218, 121.504775",7,Open,null,SC,forum
+"Bolingbrook, IL",null,Bolingbrook,IL,,USA,8,"41.722189, -88.037278",226,Open,null,SC,thread
+"Corsicana, TX",null,Corsicana,TX,75109,USA,6,"32.068577, -96.448229",132,Open,null,SC,forum
+"Alexandria, LA",null,Alexandria,LA,71301,USA,8,"31.312424, -92.446436",23,Open,null,SC,thread
+"Amsterdam, Netherlands",null,Amsterdam,,1101 GG,Netherlands,12,"52.31061, 4.936187",-3,Open,null,SC,thread
+"Birchanger Green, UK",null,Birchanger Green,,CM23 5QZ,United Kingdom,4,"51.871619, 0.193886",93,Open,null,SC,thread
+"Cagnes-sur-Mer, France",null,Cagnes-sur-Mer,,6800,France,4,"43.666446, 7.127372",31,Open,null,SC,forum
+"Kamloops, BC",null,Kamloops,BC,V2C 6R3,Canada,4,"50.655233, -120.368302",616,Open,null,SC,thread
+"Baton Rouge, LA",null,Baton Rouge,LA,70808,USA,6,"30.423892, -91.154637",10,Open,null,SC,thread
+"Eurotunnel, France",null,Coquelles,,62231,France,4,"50.935031, 1.812951",6,Open,null,SC,thread
+"Zevenaar, Netherlands",null,Zevenaar,,6902 PL,Netherlands,8,"51.94066, 6.0818",10,Open,null,SC,forum
+"Toijala, Finland",null,Akaa,,37800,Finland,4,"61.181106, 23.885075",89,Open,null,SC,thread
+"Shanghai-Hongqiao, China",null,Shanghai,Shanghai,201105,China,4,"31.164991, 121.330498",6,Open,null,SC,forum
+"Bayonne, France",null,Bayonne,,64100,France,8,"43.493245, -1.452739",6,Open,null,SC,forum
+"Mt. Gilead, OH",null,Mt. Gilead,OH,43338-9548,USA,8,"40.494024, -82.712896",354,Open,null,SC,thread
+"Barnsley, UK",null,Barnsley,South Yorkshire,S75 3DQ,United Kingdom,2,"53.489393, -1.486223",176,Open,null,SC,thread
+Aix-en-Provence - Val de l'Arc,null,Aix-en-Provence,,,France,8,"43.511938, 5.466433",149,Open,null,SC,forum
+"Caudan, France",null,Caudan,,56850,France,8,"47.788035, -3.331263",27,Open,null,SC,forum
+"Zhuhai - Holiday Resort Hotel, China",null,Zhuhai,Guangdong,,China,6,"22.237179, 113.582603",4,Open,null,SC,forum
+"Tonopah, NV",null,Tonopah,NV,89049,USA,8,"38.069801, -117.232243","1,834",Open,null,SC,thread
+"San Giovanni Teatino, Italy",null,San Giovanni Teatino,,66020,Italy,8,"42.398959, 14.16518",144,Open,null,SC,forum
+"Buena Park, CA",null,Buena Park,CA,90621,USA,8,"33.863379, -117.99103",25,Open,null,SC,thread
+"Osage Beach, MO",null,Osage Beach,MO,65065,USA,8,"38.162028, -92.605238",242,Open,null,SC,thread
+"Chapelle-sur-Erdre, France",null,La Chapelle-sur-Erdre,,44240,France,8,"47.282708, -1.549982",28,Open,null,SC,forum
+"Quartzsite, AZ",null,Quartzsite,AZ,85346,USA,8,"33.661314, -114.242174",280,Open,null,SC,forum
+"Columbus, TX",null,Columbus,TX,78934,USA,6,"29.690062, -96.537725",57,Open,null,SC,forum
+"Taipei, Taiwan",null,Taipei,,,Taiwan,6,"25.06867, 121.52126",7,Open,null,SC,forum
+"Jackson, WY",null,Jackson,WY,83001,USA,8,"43.463995, -110.794875","1,868",Open,null,SC,thread
+"Yiwu, China",null,Yiwu,Zhejiang,322000,China,4,"29.301123, 120.084763",73,Open,null,SC,forum
+"Cisco, TX",null,Cisco,TX,76437,USA,8,"32.374263, -99.007197",513,Open,null,SC,thread
+"Seaside, CA",null,Seaside,CA,93955,USA,6,"36.616759, -121.844014",10,Open,null,SC,thread
+"Kingsville, TX",null,Kingsville,TX,78363,USA,8,"27.493808, -97.844399",17,Open,null,SC,thread
+"Hangzhou Euro America Center, China",null,Hangzhou,Zhejiang,310012,China,2,"30.273066, 120.137204",12,Open,null,SC,forum
+"Shantou-Zhongyeda, China",null,Shantou,Guangdong,515065,China,4,"23.42132, 116.716884",6,Open,null,SC,forum
+"Qingdao - Jinmao Bay, China",null,Qingdao,Shandong,,China,2,"36.064564, 120.300291",26,Open,null,SC,forum
+"Karlskrona, Sweden",null,Karlskrona,,,Sweden,2,"56.165403, 15.585989",4,Open,null,SC,thread
+"Beijing - Wucai City, China",null,Beijng,Beijng,,China,6,"40.02943, 116.334763",47,Open,null,SC,forum
+"Plattsburgh, NY",null,Plattsburgh,NY,12901,USA,8,"44.704537, -73.491829",94,Open,null,SC,thread
+"Flatonia, TX",null,Flatonia,TX,78941,USA,8,"29.697904, -97.099993",128,Open,null,SC,thread
+"E-Max, Hong Kong",null,Hong Kong,Hong Kong,,China,8,"22.324074, 114.20381",21,Open,null,SC,forum
+"Clermont-Ferrand, France",null,Clermont-Ferrand,,63100,France,8,"45.785937, 3.141488",332,Open,null,SC,forum
+"Fuzhou Qiankun Automobile Store, China",null,Fuzhou,Fujian,,China,2,"26.052778, 119.344273",11,Open,null,SC,forum
+"Austin, TX",null,Austin,TX,78752,USA,8,"30.326125, -97.707112",220,Construction,null,SC,thread
+"Rubigen, Switzerland",null,Rubigen,,3113,Switzerland,6,"46.891778, 7.542771",524,Open,null,SC,thread
+"Rockford, IL",null,Rockford,IL,61112,USA,6,"42.243896, -88.978877",238,Open,null,SC,thread
+"Laramie, WY",null,Laramie,WY,82070,USA,8,"41.325312, -105.619418","2,181",Construction,null,SC,thread
+"Töcksfors, Sweden",null,Töcksfors,,,Sweden,12,"59.509437, 11.822381",118,Open,null,SC,forum
+"Hamilton Marketplace, NJ",null,Hamilton Township,NJ,8691,USA,6,"40.195539, -74.641375",21,Open,null,SC,thread
+"Bersteland, Germany",null,Bersteland,,15910,Germany,4,"51.949095, 13.787957",54,Open,null,SC,thread
+"Childress, TX",null,Childress,TX,79201,USA,9,"34.432426, -100.218676",580,Open,null,SC,forum
+"Somerset, PA",null,Somerset,PA,15501,USA,6,"40.017383, -79.077117",640,Open,null,SC,thread
+"Münchberg-Nord, Germany",null,Münchberg,,95213,Germany,6,"50.202872, 11.776552",593,Open,null,SC,forum
+"Oosterhout, Netherlands",null,Oosterhout,,4904 SJ,Netherlands,8,"51.626423, 4.869517",7,Open,null,SC,forum
+"Petaluma, CA",null,Petaluma,CA,94952,USA,12,"38.242693, -122.625049",8,Open,null,SC,thread
+"Cabazon, CA",null,Cabazon,CA,92230,USA,10,"33.93129, -116.820041",620,Open,null,SC,thread
+"Kingsland, GA",null,Kingsland,GA,31548,USA,6,"30.790764, -81.663729",8,Open,null,SC,thread
+"Dows, IA",null,Dows,IA,50071,USA,8,"42.673838, -93.462294",360,Open,null,SC,thread
+"Lindale, TX",null,Lindale,TX,75771,USA,8,"32.470885, -95.450473",167,Open,null,SC,thread
+"Leonberg-Ost, Germany",null,Leonberg,,71229,Germany,8,"48.785104, 9.017632",371,Open,null,SC,thread
+"Columbia, MO",null,Columbia,MO,65201,USA,8,"38.958728, -92.252464",254,Open,null,SC,thread
+"Paramus, NJ",null,Paramus,NJ,7652,USA,8,"40.957429, -74.07408",15,Open,null,SC,thread
+"Oxnard, CA",null,Oxnard,CA,93036,USA,18,"34.238654, -119.177398",24,Open,null,SC,thread
+"Dugo Selo, Croatia",null,Rugvica,,10370,Croatia,6,"45.766601, 16.233971",99,Construction,null,SC,thread
+"Lincoln, NE",null,Lincoln,NE,68521,USA,8,"40.860817, -96.679723",368,Open,null,SC,thread
+"Strasbourg, France",null,Ostwald,,67400,France,8,"48.534041, 7.702054",144,Open,null,SC,forum
+"Traun, Austria",null,Traun,,4050,Austria,4,"48.237012, 14.240255",273,Open,null,SC,forum
+"Burbank, CA",null,Burbank,CA,91502,USA,6,"34.174712, -118.300826",168,Open,null,SC,thread
+"Shenzhen - KK Mall, China",null,Shenzhen,Guangdong,,China,6,"22.543369, 114.107193",16,Open,null,SC,forum
+"Las Vegas, NM",null,Las Vegas,NM,87701,USA,6,"35.621267, -105.204598","1,970",Open,null,SC,thread
+"Saint-Romuald, QC",null,Saint-Romuald,QC,G6W 5M6,Canada,10,"46.73032, -71.26821",40,Construction,null,SC,thread
+"Pleasant Prairie, WI",null,Pleasant Prairie,WI,53158,USA,8,"42.518715, -87.950428",216,Open,null,SC,thread
+"Macau, China",null,Macau,Macau,,China,4,"22.141222, 113.5626",0,Open,null,SC,forum
+"Nagano ??, Japan",null,Nagano,,,Japan,4,"36.572115, 138.200325",349,Open,null,SC,forum
+"Ludington, MI",null,Ludington,MI,,USA,8,"43.957103, -86.376093",197,Open,null,SC,forum
+"Tarrytown, NY",null,Tarrytown,NY,10591,USA,12,"41.061499, -73.836411",51,Open,null,SC,thread
+"Oklahoma City, OK",null,Oklahoma City,OK,,USA,8,"35.461704, -97.651445",372,Open,null,SC,thread
+"Gundagai, Australia",null,Gundagai,NSW,2722,Australia,6,"-35.002153, 148.109873",259,Open,null,SC,thread
+"Savannah, GA",null,Savannah,GA,31408,USA,6,"32.135507, -81.212767",6,Open,null,SC,thread
+"Aberdeen, MD",null,Aberdeen,MD,21001,USA,8,"39.498017, -76.231196",76,Construction,null,SC,thread
+"Liezen, Austria",null,Liezen,,8940,Austria,8,"47.55952, 14.251709",630,Open,null,SC,thread
+"Sanya - Mingzhu, China",null,Sanya,Hainan,,China,6,"18.257536, 109.503349",5,Open,null,SC,forum
+"St. Charles, MO",null,St. Charles,MO,63303,USA,5,"38.782139, -90.532862",149,Open,null,SC,thread
+"Cadillac, MI",null,Cadillac,MI,49601,USA,8,"44.282551, -85.403096",393,Open,null,SC,thread
+"Eidfjord, Norway",null,Eidfjord,,5783,Norway,8,"60.467438, 7.068209",6,Open,null,SC,forum
+"Wytheville, VA",null,Wytheville,VA,,USA,6,"36.945795, -81.054406",683,Open,null,SC,thread
+"Waco, TX",null,Bellmead,TX,76705,USA,8,"31.58224, -97.10915",124,Open,null,SC,forum
+"Peru, IL",null,Peru,IL,61354,USA,8,"41.348503, -89.126115",195,Open,null,SC,thread
+"Sacramento, CA",null,Sacramento,CA,95834,USA,10,"38.637729, -121.49718",4,Permit,null,SC,thread
+"Hedensted, Denmark",null,Hedensted,,,Denmark,16,"55.786395, 9.667926",63,Open,null,SC,thread
+"Beckenried, Switzerland",null,Beckenried,,,Switzerland,6,"46.971497, 8.459258",439,Open,null,SC,thread
+"Kamen, Germany",null,Kamen,,59174,Germany,8,"51.570176, 7.675168",73,Open,null,SC,thread
+"Cooma, Australia",null,Cooma,,,Australia,4,"-36.235522, 149.126794",793,Open,null,SC,forum
+"El Paso, TX",null,El Paso,TX,79932,USA,8,"31.8839, -106.58379","1,180",Open,null,SC,thread
+"Tokyo Koto-ku, Japan",null,Tokyo,,,Japan,4,"35.617639, 139.776917",19,Open,null,SC,forum
+"Mitchell, SD",null,Mitchell,SD,57301,USA,6,"43.701129, -98.0445",410,Open,null,SC,forum
+"Wonju, South Korea",null,???,,,South Korea,6,"37.435072, 127.818718",296,Open,null,SC,forum
+Wenzhou Oubei Pullman Hotel,null,Wenzhou,Zhejiang,325102,China,8,"28.035995, 120.640254",1,Open,null,SC,forum
+Zhuhai Xiangzhou - Yuanguang Software Park,null,Zhuhai,Hong Kong,519085,China,2,"22.373647, 113.561454",0,Open,null,SC,forum
+Shanghai Zhabei - Jinmao Palace,null,Zhabei District,Shanghai,,China,2,"31.285446, 121.455614",4,Open,null,SC,forum
+"Woodburn, OR",null,Woodburn,OR,97071,USA,8,"45.15313, -122.881254",56,Open,null,SC,forum
+"Heyuan - Hilton Hotel, China",null,Heyuan,Guangdong,517000,China,4,"23.767788, 114.719269",41,Open,null,SC,forum
+"Worthington, MN",null,Worthington,MN,56187,USA,6,"43.63385, -95.595647",478,Open,null,SC,thread
+"Shanghai - Golden Jaguar Hotel, China",null,Shanghai,Shanghai,,China,2,"31.188299, 121.375579",8,Open,null,SC,forum
+"Arboga, Sweden",null,Arboga,,732 95,Sweden,8,"59.426307, 15.827684",20,Open,null,SC,thread
+"Folkestone, UK",null,Folkestone,Kent,CT18 8XX,United Kingdom,4,"51.096752, 1.121336",66,Open,null,SC,thread
+"Marshall, MI",null,Marshall,MI,49068,USA,8,"42.29238, -84.96299",289,Open,null,SC,thread
+"Truckee, CA",null,Truckee,CA,96161,USA,6,"39.327507, -120.207373","1,967",Open,null,SC,thread
+"Washington, UK",null,Washington,,NE37 1LB,United Kingdom,8,"54.88762, -1.557413",78,Open,null,SC,thread
+"Hamilton, New Zealand",null,Hamilton,,3200,New Zealand,4,"-37.74754, 175.23248",36,Open,null,SC,forum
+"Mishawaka, IN",null,Mishawaka,IN,46545,USA,6,"41.7174, -86.1887",234,Open,null,SC,thread
+"Victor, NY",null,Victor,NY,14564,USA,8,"43.028655, -77.440128",208,Open,null,SC,thread
+"Dombås, Norway",null,Dombås,,2660,Norway,8,"62.073923, 9.125562",659,Open,null,SC,forum
+"Bowling Green, KY",null,Bowling Green,KY,42104,USA,8,"36.955196, -86.438854",162,Open,null,SC,thread
+"Milford, CT (south)",null,Milford,CT,6460,USA,2,"41.246232, -73.010529",19,Open,null,SC,forum
+"Yangjiang - Hualuxe, China",null,Yangjiang,Guangdong,,China,4,"21.851158, 111.986061",43,Open,null,SC,forum
+"Zarechye, Russia",null,Zarechye,,,Russia,4,"55.695089, 37.380206",160,Open,null,SC,forum
+"Council Bluffs, IA",null,Council Bluffs,IA,51501,USA,8,"41.220005, -95.836123",301,Open,null,SC,thread
+"Vinstra, Norway",null,Vinstra,,2640,Norway,12,"61.59022, 9.723966",275,Open,null,SC,thread
+"Salzburg, Austria",null,Salzburg,,5081,Austria,6,"47.726937, 13.060702",411,Open,null,SC,thread
+"Achern, Germany",null,Achern,,77855,Germany,6,"48.641373, 8.03762",134,Open,null,SC,thread
+"Hawthorne, CA",null,Hawthorne,CA,90250,USA,12,"33.921068, -118.330054",18,Open,null,SC,thread
+"Tokyo, Japan",null,Tokyo,,6/10/2003,Japan,2,"35.65951, 139.72853",34,Open,null,SC,forum
+"Reading, UK",null,Reading,,RG2 6UG,United Kingdom,4,"51.420611, -0.988028",40,Open,null,SC,forum
+"Gaoxin Xi'an, China",null,Xi'an,Shaanxi,,China,4,"34.221073, 108.897087",409,Open,null,SC,forum
+"Woodstock, ON",null,Woodstock,ON,N4V 1E5,Canada,8,"43.111918, -80.738804",291,Open,null,SC,thread
+"Murcia, Spain",null,Murcia,,30009,Spain,6,"38.038172, -1.149343",109,Open,null,SC,forum
+"Ningbo - Roman, China",null,Ningbo,Zhejiang,,China,6,"29.799688, 121.546448",5,Open,null,SC,forum
+"Bourges, France",null,Bourges,,,France,8,"47.049393, 2.344843",154,Open,null,SC,forum
+"St. Joseph, MI",null,St. Joseph,MI,49085,USA,8,"42.056357, -86.456352",210,Open,null,SC,thread
+"Cranbury, NJ",null,Cranbury,NJ,8512,USA,4,"40.32244, -74.4869",34,Open,null,SC,thread
+"Innsbruck, Austria",null,Innsbruck,,6020,Austria,6,"47.264861, 11.428453",567,Open,null,SC,forum
+"Naples, FL",null,Naples,FL,34102,USA,8,"26.14462, -81.788849",2,Open,null,SC,thread
+"Neuberg, Germany",null,Neuberg,,63526,Germany,6,"50.181752, 9.007483",139,Open,null,SC,thread
+"Manzanares, Spain",null,Manzanares,,,Spain,8,"39.006855, -3.382999",656,Construction,null,SC,thread
+"Tejon Ranch, CA",null,Lebec,CA,93243,USA,10,"34.98734, -118.94623",337,Open,null,SC,thread
+"Meridian, MS",null,Meridian,MS,39301,USA,8,"32.35778, -88.671246",123,Open,null,SC,thread
+"Aartselaar, Belgium",null,Aartselaar,,2630,Belgium,6,"51.136964, 4.37737",9,Open,null,SC,thread
+"Squamish, BC",null,Squamish,BC,V8B 0G2,Canada,6,"49.736901, -123.134573",35,Open,null,SC,thread
+"Silverthorne, CO",null,Silverthorne,CO,80498,USA,8,"39.631457, -106.070816","2,670",Open,null,SC,forum
+"Charleston, WV",null,Charleston,WV,25301,USA,8,"38.354712, -81.642845",181,Open,null,SC,thread
+"Fountain Valley, CA",null,Fountain Valley,CA,92708,USA,8,"33.70278, -117.934127",11,Open,null,SC,thread
+"Wiener Neustadt, Austria",null,Wiener Neustadt,,,Austria,10,"47.804883, 16.210756",271,Open,null,SC,forum
+"Sørkjosen, Norway",null,Sørkjosen,,9152,Norway,6,"69.79237, 20.938262",4,Open,null,SC,forum
+"Yuma, AZ",null,Yuma,AZ,85364,USA,8,"32.726686, -114.619093",43,Open,null,SC,thread
+"South Mimms, UK",null,Potters Bar,,EN6 3QQ,United Kingdom,12,"51.686939, -0.221744",89,Open,null,SC,thread
+"Urmond, Netherlands",null,Urmond,,6129 EL,Netherlands,12,"50.988101, 5.780597",57,Open,null,SC,thread
+"Wernberg-Köblitz, Germany",null,Wernberg-Köblitz,,92533,Germany,6,"49.532694, 12.134861",391,Open,null,SC,forum
+"Sidney, NE",null,Sidney,NE,69162,USA,8,"41.115424, -102.949694","1,291",Open,null,SC,thread
+"Mühldorf, Germany",null,Mühldorf,,84453,Germany,4,"48.272993, 12.551161",404,Open,null,SC,thread
+"Lusk, WY",null,Lusk,WY,82225,USA,4,"42.75625, -104.45267","1,529",Open,null,SC,thread
+"Cangzhou Yunhe - Yihe Hotel, China",null,Cangzhou,Hebei,,China,2,"38.276826, 116.812668",5,Open,null,SC,forum
+"Augusta, GA",null,Augusta,GA,30907,USA,8,"33.515004, -82.044443",89,Open,null,SC,thread
+"Southampton, NY",null,Southampton,NY,11968,USA,8,"40.891909, -72.426995",14,Open,null,SC,thread
+"Yoho Mall, Hong Kong, China",null,Hong Kong,Hong Kong,,China,4,"22.44377, 114.036864",2,Open,null,SC,forum
+"Limon, CO",null,Limon,CO,80828,USA,6,"39.268842, -103.708604","1,652",Open,null,SC,thread
+"Dordrecht, Netherlands",null,Dordrecht,,,Netherlands,12,"51.774427, 4.652006",-3,Open,null,SC,thread
+"Süderholz, Germany",null,Süderholz,,18516,Germany,4,"54.092811, 13.085489",16,Open,null,SC,thread
+"Lohne, Germany",null,Lohne (Oldenburg),,49393,Germany,8,"52.657639, 8.169059",27,Open,null,SC,thread
+"Kostom?oty, Poland",null,Kostom?oty,,,Poland,4,"51.036946, 16.583294",160,Open,null,SC,thread
+"Gillette, WY",null,Gillette,WY,82718,USA,4,"44.29301, -105.526628","1,400",Open,null,SC,thread
+"Nebbenes, Norway",null,Eidsvoll Verk,,2074,Norway,20,"60.312269, 11.145104",209,Open,null,SC,thread
+"Shreveport, LA",null,Shreveport,LA,71104,USA,8,"32.478594, -93.75437",59,Open,null,SC,thread
+"Cambridge, OH",null,Cambridge,OH,43725,USA,8,"40.00357, -81.575043",242,Construction,null,SC,thread
+"Gilroy, CA",null,Gilroy,CA,95020,USA,16,"37.02493, -121.56542",63,Open,null,SC,forum
+"Stoke-on-Trent Northbound, UK",null,"Newcastle, Staffordshire",,ST5 5HG,United Kingdom,8,"52.9932, -2.2892",155,Construction,null,SC,thread
+"Lleida, Spain",null,Catalunya,,25123,Spain,6,"41.663959, 0.605371",203,Open,null,SC,forum
+"Elveden, UK",null,Elveden,,IP24 3TP,United Kingdom,8,"52.38641, 0.664606",40,Open,null,SC,forum
+"Chengdu UBO, China",null,Chengdu,Sichuan,610016,China,2,"30.593119, 104.067362",498,Open,null,SC,forum
+"Tordesillas, Spain",null,Valladolid,,,Spain,8,"41.516234, -4.942131",696,Construction,null,SC,thread
+"Stockholm Infracity (SC), Sweden",null,Stockholm,,,Sweden,2,"59.500624, 17.926818",28,Open,null,SC,thread
+"Weimar, Germany",null,Weimar,,99428,Germany,6,"50.933645, 11.289118",346,Open,null,SC,forum
+"Aire de Châteauvillain - Val Marnay, France",null,Châteauvillain,,52120,France,6,"48.057341, 4.959604",256,Open,null,SC,forum
+"Barstow, CA",null,Barstow,CA,92311,USA,16,"34.849129, -117.085446",725,Open,null,SC,thread
+"Varazze, Italy",null,Varazze,,17019,Italy,6,"44.351747, 8.565401",16,Open,null,SC,forum
+"Shanghai Qingpu - Mega Mills, China",null,Shanghai,Shanghai,,China,6,"31.150778, 121.230195",2,Open,null,SC,forum
+"Truckee-Brockway Rd, CA",null,Truckee,CA,96161,USA,8,"39.321865, -120.1621","1,801",Open,null,SC,thread
+"Greenwich, CT (south)",null,Greenwich,CT,6830,USA,4,"41.040555, -73.673445",81,Open,null,SC,thread
+"Waldlaubersheim, Germany",null,Waldlaubersheim,,55444,Germany,8,"49.923972, 7.825736",221,Open,null,SC,thread
+"Jackson, TN",null,Jackson,TN,38305,USA,8,"35.660349, -88.855771",100,Open,null,SC,thread
+"Porsgrunn, Norway",null,Porsgrunn,,,Norway,8,"59.122098, 9.707564",33,Open,null,SC,thread
+"Braak, Germany",null,Braak,,22145,Germany,8,"53.617854, 10.239499",49,Open,null,SC,thread
+"L´Aldea, Spain",null,L´Aldea,,,Spain,6,"40.753019, 0.606421",32,Open,null,SC,forum
+"Syracuse, NY",null,Liverpool,NY,13088,USA,8,"43.102516, -76.187475",123,Open,null,SC,thread
+"Beaver, UT",null,Beaver,UT,84713,USA,4,"38.249149, -112.652524","1,790",Open,null,SC,thread
+"Guangzhou Tianhe Haixinsha, China",null,Guangzhou,Guangdong,,China,8,"23.112923, 113.32822",0,Open,null,SC,forum
+"Athens, AL",null,Athens,AL,35611,USA,8,"34.785443, -86.942964",207,Open,null,SC,thread
+"Dayton, OH",null,Dayton,OH,45445,USA,8,"39.858702, -84.277027",257,Open,null,SC,thread
+"Bernin, France",null,Bernin,,38190,France,8,"45.265676, 5.876448",238,Open,null,SC,forum
+"Green River, UT",null,Green River,UT,84525,USA,4,"38.993577, -110.140513","1,240",Open,null,SC,thread
+"Huizhou - Longhai, China",null,Huizhou,Guangdong,,China,4,"22.978951, 114.452499",17,Open,null,SC,forum
+"Tianjin - Wisdom Valley, China",null,Tianjin,Tianjin,300384,China,4,"39.093114, 117.119933",4,Open,null,SC,forum
+"Steg-Hohtenn, Switzerland",null,Steg-Hohtenn,,3940,Switzerland,8,"46.310323, 7.74971",631,Open,null,SC,thread
+"Forte dei Marmi, Italy",null,Forte dei Marmi,,55042,Italy,6,"43.956416, 10.194539",6,Open,null,SC,forum
+"Santa Rosa, NM",null,Santa Rosa,NM,88435,USA,6,"34.947013, -104.647997","1,440",Open,null,SC,thread
+"Grand Island, NE",null,Grand Island,NE,68803,USA,8,"40.829973, -98.379822",574,Open,null,SC,thread
+"Collégien, France",null,Collégien,,,France,8,"48.830877, 2.678019",106,Open,null,SC,forum
+"Bay City, MI",null,Bay City,MI,48706,USA,8,"43.622061, -83.932241",181,Open,null,SC,thread
+"Mogendorf, Germany",null,Mogendorf,,56424,Germany,8,"50.482676, 7.75006",315,Open,null,SC,thread
+"Moers, Germany",null,Moers,,47447,Germany,8,"51.440431, 6.610193",28,Open,null,SC,thread
+"Sagamore, MA",null,Sagamore,MA,2562,USA,8,"41.781242, -70.540271",26,Open,null,SC,thread
+"Kettleman City, CA",null,Kettleman City,CA,93239,USA,40,"35.987651, -119.962336",100,Permit,null,SC,thread
+"Drummondville, QC",null,Drummondville,QC,J2C 6Y7,Canada,8,"45.899084, -72.51942",84,Open,null,SC,thread
+"Rungis, France",null,Rungis,,94150,France,6,"48.754456, 2.351036",89,Open,null,SC,forum
+"Merritt, BC",null,Merritt,BC,V1K 0A4,Canada,8,"50.124377, -120.751136",634,Open,null,SC,thread
+"Lier (north), Norway",null,Lier,,3400,Norway,8,"59.770833, 10.262139",17,Open,null,SC,forum
+"Ozona, TX",null,Ozona,TX,76943,USA,6,"30.706696, -101.195962",718,Open,null,SC,thread
+"West Yellowstone, MT",null,West Yellowstone,MT,59758,USA,8,"44.656089, -111.099022","2,034",Open,null,SC,thread
+"Jiangmen-Idear Hanyu, China",null,Jiangmen,Guangdong,,China,4,"22.560246, 113.1381",-2,Open,null,SC,forum
+"Vierumäki, Finland",null,Vierumäki,,19110,Finland,4,"61.111599, 25.928814",144,Open,null,SC,forum
+"Topeka, KS",null,Topeka,KS,66614,USA,8,"39.044199, -95.76046",283,Open,null,SC,thread
+"Laiguangying, Beijing, China",null,Beijing,Beijing,100012,China,4,"40.031033, 116.448334",41,Open,null,SC,forum
+Suzhou - Wuzhong,null,Suzhou,Jiangsu,,China,6,"31.202799, 120.557442",3,Open,null,SC,forum
+"Äänekoski, Finland",null,Koivisto,,44250,Finland,4,"62.516908, 25.691666",107,Open,null,SC,thread
+"Bristol - Cribbs Causeway, UK",null,Bristol,,BS34 5QU,United Kingdom,2,"51.526694, -2.599806",65,Open,null,SC,forum
+"Greenville, SC",null,Greenville,SC,29607,USA,8,"34.825895, -82.306973",304,Open,null,SC,thread
+"Dundee, UK",null,Dundee,,DD2 5JT,United Kingdom,8,"56.466428, -3.062962",20,Open,null,SC,forum
+"Setermoen, Norway",null,Bardu,,9365,Norway,6,"68.860238, 18.348918",80,Open,null,SC,forum
+"Chicago-Lakeshore East, IL",null,Chicago,IL,60601,USA,10,"41.886458, -87.620262",177,Construction,null,SC,thread
+"Groveland, CA",null,Groveland,CA,95321,USA,7,"37.838679, -120.23199",865,Open,null,SC,thread
+"Hashima, Japan",null,Hashima,,,Japan,4,"35.303584, 136.691785",2,Open,null,SC,forum
+"Narbonne, France",null,Narbonne,,11100,France,8,"43.167693, 2.986012",15,Open,null,SC,forum
+"Erie, PA",null,Erie,PA,16509,USA,8,"42.049602, -80.086345",358,Open,null,SC,thread
+"Roseville, CA",null,Roseville,CA,95678,USA,7,"38.771208, -121.266149",66,Open,null,SC,thread
+"Lillehammer, Norway",null,Lillehammer,,2619,Norway,10,"61.13045, 10.43491",159,Open,null,SC,forum
+"Kingman, AZ",null,Kingman,AZ,86401,USA,6,"35.191331, -114.065592","1,025",Open,null,SC,thread
+"Orgeval, France",null,Orgeval,,78630,France,4,"48.925026, 1.996508",76,Open,null,SC,forum
+"Auburn, MA",null,Auburn,MA,1501,USA,8,"42.203608, -71.832516",156,Open,null,SC,thread
+"Chengdu - Gaoxin, China",null,Chengdu,Sichuan,,China,9,"30.588559, 104.029497",487,Open,null,SC,forum
+"Egerkingen, Switzerland",null,Egerkingen,,4622,Switzerland,10,"47.327083, 7.805583",503,Open,null,SC,thread
+"Canmore, AB",null,Canmore,AB,T1W 1L7,Canada,4,"51.100208, -115.359179","1,320",Open,null,SC,thread
+"Aksdal, Norway",null,Aksdal,,5570,Norway,8,"59.423006, 5.44306",41,Open,null,SC,thread
+"Lille, France",null,Lille,,59810,France,8,"50.583875, 3.088602",58,Open,null,SC,forum
+"Slavonski Brod, Croatia",null,Gornja Vrba,,35207,Croatia,6,"45.175641, 18.063889",96,Construction,null,SC,forum
+"Harrisburg, PA",null,Harrisburg,PA,17109,USA,8,"40.277134, -76.823255",145,Open,null,SC,thread
+"Maumee, OH",null,Maumee,OH,43537,USA,6,"41.57835, -83.66465",192,Open,null,SC,thread
+"Ardmore, OK",null,Ardmore,OK,73401,USA,6,"34.179106, -97.165632",259,Open,null,SC,thread
+"San Juan Capistrano, CA",null,San Juan Capistrano,CA,92675,USA,7,"33.498458, -117.6632",30,Open,null,SC,thread
+"Umeå, Sweden",null,Umeå,,90421,Sweden,4,"63.811159, 20.250153",2,Open,null,SC,thread
+"Valence, France",null,Valence,,26000,France,8,"44.918953, 4.878081",106,Open,null,SC,forum
+"Tooele, UT",null,Tooele,UT,84074,USA,6,"40.684486, -112.268818","1,290",Open,null,SC,thread
+"Coffs Harbour, Australia",null,Coffs Harbour,NSW,2450,Australia,2,"-30.27517, 153.132044",64,Open,null,SC,forum
+"Tucumcari, NM",null,Tucumcari,NM,88401,USA,6,"35.153963, -103.722539","1,253",Open,null,SC,thread
+"Shenzhen-Longhua, China",null,Shenzhen,Guangdong,518131,China,6,"22.6189, 114.05482",72,Open,null,SC,forum
+"Archamps, France",null,Archamps,,74160,France,8,"46.136917, 6.124306",507,Open,null,SC,forum
+"Kuttawa, KY",null,Kuttawa,KY,42055,USA,8,"37.073405, -88.124752",134,Open,null,SC,thread
+"Norfolk, VA",null,Norfolk,VA,,USA,6,"36.860525, -76.207467",5,Open,null,SC,thread
+"Fort Drum, FL",null,Okeechobee,FL,34972,USA,6,"27.601444, -80.822187",16,Open,null,SC,thread
+"Lee, MA",null,Lee,MA,1238,USA,8,"42.29571, -73.239245",267,Open,null,SC,thread
+"Valencia, Spain",null,Valencia,Paterna,46980,Spain,4,"39.542965, -0.451521",107,Open,null,SC,forum
+"Moncalieri, Italy",null,Moncalieri,,,Italy,8,"44.973333, 7.730113",224,Open,null,SC,forum
+"Catoosa, OK",null,Catoosa,OK,74015,USA,8,"36.167631, -95.766044",209,Open,null,SC,thread
+"Allentown, PA",null,Allentown,PA,18104,USA,8,"40.588102, -75.559904",125,Open,null,SC,thread
+"Matougues, France",null,Matougues,,51510,France,4,"48.991991, 4.244946",81,Open,null,SC,forum
+"Champaign, IL",null,Champaign,IL,61822,USA,8,"40.146209, -88.259884",228,Open,null,SC,thread
+"Chorley, UK",null,Chorley,,PR7 5LR,United Kingdom,12,"53.630562, -2.692578",69,Open,null,SC,forum
+"Springfield, OR",null,Springfield,OR,97477,USA,8,"44.082605, -123.037471",133,Open,null,SC,forum
+"Egg Harbor Township, NJ",null,Egg Harbor Township,NJ,8234,USA,8,"39.393663, -74.562619",9,Open,null,SC,thread
+"Sherburn, MN",null,Sherburn,MN,56171,USA,8,"43.66182, -94.733012",395,Permit,null,SC,thread
+"Albany-Crossgates Mall, NY",null,Albany,NY,12203,USA,20,"42.691055, -73.848904",83,Construction,null,SC,forum
+"Brewer, ME",null,Brewer,ME,4412,USA,8,"44.775909, -68.73432",43,Open,null,SC,thread
+"Florida City, FL",null,Florida City,FL,33034,USA,8,"25.456825, -80.474341",1,Open,null,SC,thread
+"Le Caylar, France",null,Le Caylar,,34520,France,8,"43.864589, 3.313277",733,Open,null,SC,forum
+"Port Hope, ON",null,Port Hope,ON,,Canada,8,"43.97171, -78.285431",108,Open,null,SC,thread
+"Lake Charles, LA",null,Lake Charles,LA,70601,USA,6,"30.199071, -93.248782",3,Open,null,SC,thread
+"Mâcon, France",null,Sancé,,71000,France,10,"46.346553, 4.850173",172,Open,null,SC,forum
+"Baxter, MN",null,Baxter,MN,56425,USA,8,"46.378868, -94.256413",369,Open,null,SC,thread
+"Beaune, France",null,Beaune,,21200,France,8,"47.017089, 4.836543",210,Open,null,SC,forum
+"Leominster, MA",null,Leominster,MA,1453,USA,8,"42.529798, -71.744151",91,Construction,null,SC,thread
+"Beckley, WV",null,Mount Hope,WV,25880,USA,8,"37.847683, -81.196272",724,Permit,null,SC,thread
+"Tangshan - Tongyuan, China",null,Tangshan,Hebei,,China,4,"39.676117, 118.251556",32,Open,null,SC,forum
+Hong Kong-Science and Technology Parks,null,Hong Kong,Hong Kong,,China,6,"22.427953, 114.210358",1,Open,null,SC,forum
+"Erwin, NY",null,Painted Post,NY,14870,USA,10,"42.170919, -77.107728",288,Construction,null,SC,thread
+"Harris Ranch, CA",null,Coalinga,CA,93210,USA,20,"36.25415, -120.237896",139,Open,null,SC,thread
+Hanzhong-Dahan Hotel,null,Hanzhong,Shanxi,,China,4,"33.078426, 107.049622",512,Open,null,SC,forum
+"Haikou - Jinghua, China",null,Haikou,Hainan,,China,6,"20.02696, 110.318741",17,Open,null,SC,forum
+"Saint-Brieuc, France",null,Saint-Brieuc,,22360,France,8,"48.493453, -2.722645",104,Open,null,SC,forum
+Shijiazhuang - Healthy City,null,Shijiazhuang,Hebei,,China,2,"38.093586, 114.302879",159,Open,null,SC,forum
+"Jebel Ali, UAE",null,Dubai,,,United Arab Emirates,4,"24.910732, 54.962517",7,Open,null,SC,thread
+"Elko, NV",null,Elko,NV,89801,USA,6,"40.836301, -115.790859","1,574",Open,null,SC,thread
+"Mougins, France",null,Mougins,,6250,France,4,"43.603659, 7.011155",183,Open,null,SC,thread
+"Hopesky Hotel, Changsha, China",null,Changsha,Hunan,,China,2,"28.11254, 112.995359",14,Open,null,SC,forum
+"Temascalcingo, Mexico",null,Temascalcingo,,,Mexico,8,"19.856215, -100.042844","2,521",Construction,null,SC,forum
+"Lake City, FL",null,Lake City,FL,32055,USA,6,"30.181429, -82.679701",46,Open,null,SC,thread
+"Aire de Châteauvillain - Orges, France",null,Châteauvillain,,52120,France,6,"48.057681, 4.96061",257,Open,null,SC,forum
+"Apeldoorn, Netherlands",null,Ugchelen,,,Netherlands,8,"52.177996, 5.912627",42,Open,null,SC,thread
+"Bernau am Chiemsee, Germany",null,Bernau am Chiemsee,,83233,Germany,8,"47.814441, 12.367768",526,Open,null,SC,thread
+"Foshan, China",null,Foshan,Guangdong,,China,4,"23.11674, 113.145747",-2,Open,null,SC,forum
+"Leeds Southbound, UK",null,Leeds,,LS27 0TS,United Kingdom,2,"53.733814, -1.585875",139,Open,null,SC,thread
+"Seaside, OR",null,Seaside,OR,97138,USA,8,"46.00101, -123.91683",5,Open,null,SC,thread
+"Chambéry Barberaz, France",null,Barberaz,,73000,France,4,"45.56085, 5.949646",288,Open,null,SC,forum
+"Alvdal, Norway",null,Alvdal,,2560,Norway,8,"62.114312, 10.617707",482,Open,null,SC,forum
+"Dalian Fisherman's Wharf, China",null,Dalian,Liaoning,,China,4,"38.87639, 121.68571",34,Open,null,SC,forum
+"Emsbüren, Germany",null,Emsbüren,,48488,Germany,8,"52.359241, 7.264215",32,Open,null,SC,thread
+"London - Brent Cross, UK",null,London,,NW4 3FP,United Kingdom,2,"51.57753, -0.223753",53,Open,null,SC,forum
+"Woodall, UK",null,Sheffield,,S26 7XR,United Kingdom,8,"53.314145, -1.281904",128,Open,null,SC,forum
+Hong Kong-Pacific Place,null,Hong Kong,Hong Kong,,China,4,"22.27704, 114.164391",116,Open,null,SC,forum
+"Springfield, IL",null,Springfield,IL,62711,USA,8,"39.748868, -89.67119",184,Open,null,SC,thread
+"Kozina,  Slovenia",null,Kozina,,6240,Slovenia,6,"45.60492, 13.928521",494,Open,null,SC,thread
+"Beijing Haidian Charter Shopping Center, China",null,Beijing,Beijing,,China,6,"39.912154, 116.275957",58,Open,null,SC,forum
+"Bloomsburg, PA",null,Bloomsburg,PA,17815,USA,8,"41.016143, -76.492616",197,Open,null,SC,thread
+"Houston, TX",null,Houston,TX,77090,USA,6,"29.980741, -95.421697",31,Open,null,SC,thread
+"Aspøya, Norway",null,Aspøya,,6670,Norway,8,"63.011584, 7.977743",7,Open,null,SC,thread
+"Oxford, UK",null,Oxford,,OX33 1JL,United Kingdom,6,"51.737666, -1.095778",2,Open,null,SC,thread
+"Birmingham, AL",null,Birmingham,AL,35203,USA,8,"33.525917, -86.806875",182,Open,null,SC,thread
+Nantong-Shimao Plaza,null,Nantong,Jiangsu,,China,4,"31.919376, 120.952042",4,Open,null,SC,forum
+"Lauragais, France",null,Lauragais,,,France,4,"43.353222, 1.806074",190,Permit,null,SC,forum
+"Louisville, KY",null,Louisville,KY,40205,USA,8,"38.211846, -85.673087",151,Open,null,SC,thread
+"Xiamen-Haixia City, China",null,Xiamen,Fujian,,China,2,"24.545908, 118.240105",19,Open,null,SC,forum
+"Laßnitzhöhe, Austria",null,Laßnitzhöhe,,,Austria,8,"47.07327, 15.576919",515,Permit,null,SC,forum
+"Vienna, Austria",null,Vienna,,1230,Austria,4,"48.157446, 16.334554",190,Open,null,SC,thread
+"Inyokern, CA",null,Inyokern,CA,93527,USA,4,"35.646461, -117.812629",742,Open,null,SC,thread
+"Huntsville, TX",null,Huntsville,TX,77340,USA,6,"30.716158, -95.565944",123,Open,null,SC,forum
+"Hong Kong - East Point City, China",null,Hong Kong,Hong Kong,,China,4,"22.316526, 114.265687",24,Open,null,SC,thread
+"Napa, CA",null,Napa,CA,94558,USA,8,"38.2356, -122.264",15,Open,null,SC,thread
+"Triadelphia, WV",null,Triadelphia,WV,26059,USA,4,"40.060757, -80.602874",397,Open,null,SC,thread
+"Maienfeld, Switzerland",null,Maienfeld,,7304,Switzerland,14,"47.003972, 9.525835",503,Open,null,SC,thread
+"Suining, China",null,Suining,Sichuan,,China,4,"30.531393, 105.589851",280,Open,null,SC,forum
+"Barrie, ON",null,Barrie,ON,L4N 9H6,Canada,8,"44.341123, -79.678975",293,Open,null,SC,thread
+"Lima, OH",null,Lima,OH,45804,USA,8,"40.726668, -84.071932",271,Open,null,SC,thread
+"West Lebanon, NH",null,West Lebanon,NH,3784,USA,8,"43.623536, -72.325895",106,Open,null,SC,thread
+"Columbia, SC",null,Columbia,SC,29203,USA,8,"34.106319, -80.950723",95,Open,null,SC,thread
+"Terre Haute, IN",null,Terre Haute,IN,47803,USA,8,"39.443345, -87.331737",171,Open,null,SC,thread
+"Lermoos, Austria",null,Lermoos,,6631,Austria,4,"47.3948, 10.887553","1,006",Open,null,SC,forum
+"Gothenburg, NE",null,Gothenburg,NE,69138,USA,8,"40.917317, -100.169913",780,Open,null,SC,thread
+"Newport Pagnell, UK",null,Newport Pagnell,,MK16 8DS,United Kingdom,12,"52.084312, -0.748467",71,Open,null,SC,forum
+"Kelowna, BC",null,Kelowna,BC,V1X 4J1,Canada,8,"49.885795, -119.429273",376,Open,null,SC,thread
+"Riviera Beach, FL",null,Riviera Beach,FL,33407,USA,8,"26.778116, -80.109107",4,Open,null,SC,thread
+"Burlington, NC",null,Burlington,NC,27215,USA,8,"36.07079, -79.511211",197,Open,null,SC,thread
+"Sendai, Japan",null,Sendai,,,Japan,4,"38.342928, 140.837815",2,Open,null,SC,thread
+"Yulin - Xingyu Road, China",null,Yulin,Shaanxi,,China,4,"38.272358, 109.722927","1,076",Open,null,SC,forum
+"Yermo, CA",null,Yermo,CA,92398,USA,18,"34.907217, -116.835801",590,Permit,null,SC,thread
+"Idaho Falls, ID",null,Idaho Falls,ID,,USA,8,"43.485152, -112.05205","1,426",Open,null,SC,thread
+"Bratislava, Slovakia",null,Bratislava,,,Slovakia,6,"48.132138, 17.108438",136,Open,null,SC,thread
+"Shenzhen Futian, China",null,Shenzhen,Guangdong,,China,6,"22.518672, 114.073736",0,Open,null,SC,forum
+"Rennes, France",null,Rennes,,35200,France,8,"48.08208, -1.684395",35,Open,null,SC,forum
+"Val-de-Meuse, France",null,Val-de-Meuse,,,France,16,"47.99147, 5.51296",355,Open,null,SC,thread
+"Casa Grande, AZ",null,Casa Grande,AZ,85194,USA,6,"32.87888, -111.681742",435,Open,null,SC,thread
+"Karlstad, Sweden",null,Karlstad,,653 41,Sweden,6,"59.3812, 13.468747",15,Open,null,SC,thread
+"Burgos, Spain",null,Burgos,,9001,Spain,6,"42.311411, -3.703161",938,Open,null,SC,forum
+"Indianapolis, IN",null,Indianapolis,IN,46203,USA,8,"39.702444, -86.079687",253,Open,null,SC,thread
+"Hengersberg, Germany",null,Hengersberg,,94491,Germany,6,"48.765472, 13.046667",309,Open,null,SC,forum
+"Binghamton, NY",null,Binghamton,NY,13905,USA,8,"42.145553, -75.901755",262,Open,null,SC,thread
+"Zhanjiang - Jinsha Bay, China",null,Zhanjiang,Guangdong,,China,4,"21.268173, 110.393784",0,Open,null,SC,forum
+"Abington, UK",null,Abington,,ML12 6RG,United Kingdom,6,"55.507944, -3.694786",242,Open,null,SC,thread
+"Knockrow, Australia",null,Knockrow,NSW,,Australia,6,"-28.749596, 153.534593",97,Open,null,SC,thread
+"Pendleton, OR",null,Pendleton,OR,97801,USA,8,"45.64655, -118.68198",437,Open,null,SC,thread
+Hong Kong-Festival Walk,null,Hong Kong,Hong Kong,,China,4,"22.337555, 114.174162",44,Open,null,SC,forum
+"Rancho Cucamonga, CA",null,Rancho Cucamonga,CA,91739,USA,12,"34.113592, -117.529406",381,Open,null,SC,thread
+"Highland Park (SC), IL",null,Highland Park,IL,60035,USA,4,"42.17434, -87.816626",195,Open,null,SC,thread
+"Indio, CA",null,Indio,CA,92203,USA,8,"33.741484, -116.215019",-3,Open,null,SC,thread
+"Chengde - Bifengmen, China",null,Chengde,Hebei,,China,4,"40.988365, 117.926208",386,Open,null,SC,forum
+"Martigny, Switzerland",null,Martigny,,1920,Switzerland,8,"46.126595, 7.060944",451,Open,null,SC,forum
+"Randers, Denmark",null,Randers,,8960,Denmark,14,"56.433685, 10.055412",30,Open,null,SC,thread
+"Sundebru, Norway",null,Sundebru,,4993,Norway,10,"58.820783, 9.073746",99,Open,null,SC,forum
+"Lagan, Sweden",null,Lagan,,,Sweden,8,"57.028956, 14.014744",150,Open,null,SC,thread
+Hong Kong-Maritime Square,null,Hong Kong,Hong Kong,,China,2,"22.359281, 114.108184",50,Open,null,SC,forum
+"Xiamen-One Park Mall, China",null,Xiamen,Fujian,,China,6,"24.514809, 118.161575",0,Open,null,SC,forum
+"Eureka, CA",null,Eureka,CA,95501,USA,8,"40.778885, -124.188383",6,Open,null,SC,thread
+"Guangyuan-­Jiahua Hotel, China",null,Guangyuan,Sichuan,,China,4,"32.424892, 105.879715",488,Open,null,SC,forum
+"Billings, MT",null,Billings,MT,59102,USA,4,"45.733716, -108.604573",978,Open,null,SC,thread
+"Aosta, Italy",null,Pollein,,,Italy,14,"45.73745, 7.371416",539,Open,null,SC,forum
+"Tinton Falls, NJ",null,Tinton Falls,NJ,7753,USA,8,"40.226272, -74.093538",33,Open,null,SC,thread
+"Port Macquarie, Australia",null,Port Macquarie,NSW,2444,Australia,6,"-31.4361, 152.823582",23,Open,null,SC,thread
+"Kennewick, WA",null,Kennewick,WA,99336,USA,8,"46.198085, -119.162734",167,Open,null,SC,thread
+"Tystberga, Nyköping, Sweden",null,Tystberga,,61174,Sweden,6,"58.918156, 17.367987",53,Open,null,SC,thread
+"Maribor, Slovenia",null,Maribor,,2000,Slovenia,6,"46.533248, 15.699366",244,Open,null,SC,thread
+"Wickenburg, AZ",null,Wickenburg,AZ,85390,USA,6,"33.970233, -112.73165",628,Open,null,SC,thread
+"Rocklin (SC), CA",null,Rocklin,CA,95677,USA,8,"38.800537, -121.210485",98,Open,null,SC,thread
+"Kortrijk, Belgium",null,Kortrijk,,8500,Belgium,8,"50.805626, 3.274434",26,Open,null,SC,thread
+"Sulphur Springs, TX",null,Sulphur Springs,TX,75482,USA,8,"33.137172, -95.603239",151,Open,null,SC,thread
+"Nempitz, Germany",null,Nempitz,,6231,Germany,6,"51.290043, 12.137328",114,Open,null,SC,thread
+"Gretna Green, UK",null,Gretna Green,,DG16 5HQ,United Kingdom,4,"55.0078, -3.083018",43,Open,null,SC,thread
+"Gardnerville, NV",null,Gardnerville,NV,89410,USA,6,"38.696426, -119.548534","1,579",Open,null,SC,thread
+"Bad Rappenau, Germany",null,Bad Rappenau,,74906,Germany,8,"49.211936, 9.077322",207,Open,null,SC,forum
+"Mercato San Severino, Italy",null,Mercato San Severino,,84085,Italy,6,"40.771952, 14.746048",153,Open,null,SC,forum
+"Harbin - Kempinski Hotel, China",null,Harbin,Heilongjiang,,China,4,"45.798618, 126.527725",114,Open,null,SC,forum
+"McAllen, TX",null,McAllen,TX,78501,USA,8,"26.199278, -98.260864",30,Construction,null,SC,thread
+"Kalmar, Sweden",null,Kalmar,,39239,Sweden,6,"56.673228, 16.321408",4,Open,null,SC,thread
+"Hangzhou Huanglong, China",null,Hangzhou,Zhejiang,,China,6,"30.266799, 120.14308",15,Open,null,SC,forum
+"Arlington, TX",null,Arlington,TX,76011,USA,10,"32.754659, -97.082823",164,Open,null,SC,thread
+"Mënsbech, Luxembourg",null,Mënsbech,,L-5365,Luxembourg,4,"49.640622, 6.271219",257,Open,null,SC,thread
+Kunshan - Qidi Park,null,Kunshan,Jiangsu,,China,4,"31.403936, 120.892906",3,Open,null,SC,forum
+"Orléans, France",null,Saran,,,France,8,"47.948869, 1.86831",124,Open,null,SC,forum
+"Vienne, France",null,Chasse-sur-Rhône,,38670,France,8,"45.587457, 4.787527",158,Open,null,SC,thread
+"Caen, France",null,Bretteville-sur-Odon,,14760,France,8,"49.16398, -0.424802",27,Open,null,SC,forum
+Hong Kong - Lincoln House,null,Hong Kong,Hong Kong,,China,4,"22.287648, 114.212233",73,Open,null,SC,forum
+"Nivelles-Sud, Belgium",null,Nivelles,,1400,Belgium,8,"50.588397, 4.307388",113,Open,null,SC,forum
+Shanghai Pudong Shanda Tiandi,null,Shanghai,Shanghai,,China,4,"31.171317, 121.60646",3,Open,null,SC,forum
+"Davenport, IA",null,Davenport,IA,,USA,8,"41.575888, -90.513526",219,Open,null,SC,thread
+"Birdhill, Ireland",null,Birdhill,Tipperary,,Ireland,8,"52.757747, -8.40932",85,Permit,null,SC,thread
+"Marathon, FL",null,Marathon,FL,33050,USA,4,"24.725916, -81.047519",1,Open,null,SC,thread
+"Seoul - Jongno, South Korea",null,??,,,South Korea,6,"37.570693, 126.981511",45,Open,null,SC,forum
+"National Harbor, MD",null,Oxon Hill,MD,20745,USA,8,"38.786819, -77.015002",9,Permit,null,SC,thread
+"Fano, Italy",null,Fano,,61032,Italy,4,"43.802874, 13.015345",21,Open,null,SC,forum
+"Ganzhou - Pangu, China",null,Ganzhou,Jiangxi,341003,China,4,"25.86754, 114.880402",142,Open,null,SC,forum
+"Missoula, MT",null,Missoula,MT,59808,USA,6,"46.914375, -114.031924","1,009",Open,null,SC,thread
+"Lincoln City, OR",null,Lincoln City,OR,97138,USA,8,"44.957751, -124.010966",24,Open,null,SC,thread
+"Beijing-Universal Business Park, China",null,Beijing,Beijing,100015,China,4,"39.977989, 116.481445",42,Open,null,SC,thread
+"Sydney-Lower North Shore, Australia",null,St Leonards,NSW,2064,Australia,5,"-33.817021, 151.191334",80,Open,null,SC,thread
+"Grand Junction, CO",null,Grand Junction,CO,81505,USA,6,"39.090758, -108.604325","1,386",Open,null,SC,thread
+"South Hill, VA",null,South Hill,VA,23970,USA,6,"36.748445, -78.103764",125,Open,null,SC,thread
+"Warrington, UK",null,Warrington,,WA4 4NS,United Kingdom,2,"53.339515, -2.569358",88,Open,null,SC,forum
+"Buttonwillow, CA",null,Buttonwillow,CA,93206,USA,10,"35.400105, -119.397796",90,Open,null,SC,thread
+"Hungerford, UK",null,Hungerford,,RG17 7TY,United Kingdom,8,"51.481584, -1.557043",209,Construction,null,SC,thread
+"Myrtle Beach, SC",null,Myrtle Beach,SC,29577,USA,10,"33.704388, -78.925172",6,Open,null,SC,thread
+"Rødekro, Denmark",null,Rødekro,,6230,Denmark,6,"55.067258, 9.361119",48,Open,null,SC,thread
+"Berlin, VT",null,Berlin,VT,5602,USA,8,"44.212532, -72.576462",299,Open,null,SC,thread
+"Mt Shasta, CA",null,Mt. Shasta,CA,96067,USA,6,"41.310233, -122.317278","1,066",Open,null,SC,forum
+"Mobile, AL",null,Mobile,AL,36606,USA,8,"30.671556, -88.118644",6,Open,null,SC,thread
+Hong Kong-Popcorn,null,Hong Kong,Hong Kong,,China,2,"22.307793, 114.259783",1,Open,null,SC,forum
+"Tarragona, Spain",null,Tarragona,,43110,Spain,2,"41.134294, 1.1683",52,Open,null,SC,forum
+"East Brunswick, NJ",null,East Brunswick,NJ,8816,USA,4,"40.41701, -74.444085",37,Open,null,SC,thread
+"Dorno, Italy",null,Dorno,,27020,Italy,12,"45.147886, 8.990914",87,Open,null,SC,forum
+"Yangzhou - Tianrun, China",null,Yangzhou,Jiangsu,225000,China,4,"32.390494, 119.397507",11,Open,null,SC,forum
+"Greenwich, CT (north)",null,Greenwich,CT,6830,USA,4,"41.041538, -73.671661",82,Open,null,SC,thread
+"Berlin (SC), Germany",null,Berlin,,12526,Germany,2,"52.394057, 13.542307",44,Open,null,SC,thread
+"Murdo, SD",null,Murdo,SD,57559,USA,4,"43.886915, -100.716887",691,Open,null,SC,thread
+"Al Noaymah, Jordan",null,Irbid,,,Jordan,4,"32.423487, 35.949942",585,Open,null,SC,thread
+"Darien, CT (north)",null,Darien,CT,6820,USA,4,"41.080599, -73.461905",13,Open,null,SC,forum
+"Mauston, WI",null,Mauston,WI,53948,USA,6,"43.795551, -90.059358",265,Open,null,SC,forum
+"Yokohama, Japan",null,Yokohama,,995-1,Japan,4,"35.426015, 139.537548",43,Open,null,SC,forum
+"Angola, IN",null,Angola,IN,46703,USA,6,"41.699048, -85.000326",329,Open,null,SC,thread
+"Sollentuna, Sweden",null,Sollentuna,,19279,Sweden,4,"59.496093, 17.924441",18,Open,null,SC,thread
+"Denton, TX",null,Denton,TX,76201,USA,6,"33.231403, -97.166419",212,Open,null,SC,thread
+"Salisbury, MD",null,Salisbury,MD,21801,USA,6,"38.401648, -75.564818",12,Open,null,SC,thread
+"Rouen, France",null,Saint-Étienne-du-Rouvray,,76800,France,8,"49.388964, 1.059818",76,Open,null,SC,forum
+"Ljubljana, Slovenia",null,Ljubljana,,1000,Slovenia,6,"46.052057, 14.45315",328,Open,null,SC,forum
+"Cangzhou Yunhe - King Lion International Hotel, China",null,Cangzhou,Hebei,,China,4,"38.304617, 116.813319",9,Open,null,SC,forum
+"Lovelock, NV",null,Lovelock,NV,89419,USA,4,"40.179476, -118.472135","1,213",Open,null,SC,thread
+"Lee Gardens, Hong Kong, China",null,Hong Kong,Hong Kong,,China,2,"22.278528, 114.184861",54,Open,null,SC,forum
+"Ningbo Jiangdong - Culture Plaza, China",null,Ningbo,Zhejiang,,China,2,"29.85638, 121.618555",5,Open,null,SC,forum
+"Port Orange, FL",null,Port Orange,FL,32128,USA,6,"29.108566, -81.034569",7,Open,null,SC,forum
+"Brisbane, Australia",null,Fortitude Valley,QLD,4006,Australia,4,"-27.451321, 153.040734",5,Permit,null,SC,thread
+"West Des Moines, IA",null,West Des Moines,IA,50266,USA,8,"41.599019, -93.806336",300,Open,null,SC,thread
+"Macon, GA",null,Macon,GA,31201,USA,8,"32.833428, -83.625557",98,Open,null,SC,thread
+"Ellensburg, WA",null,Ellensburg,WA,98926,USA,5,"46.976918, -120.54162",454,Open,null,SC,thread
+"Mora, Sweden",null,Mora,,792 30,Sweden,4,"61.005921, 14.54418",157,Open,null,SC,thread
+"Villach, Austria",null,Villach,,9500,Austria,8,"46.604079, 13.86908",490,Open,null,SC,thread
+"Emeishan-Hongzhushan Hotel, China",null,Emeishan,Sichuan,614203,China,4,"29.56255, 103.445404",549,Open,null,SC,forum
+"Dallas, TX",null,Dallas,TX,75231,USA,8,"32.880799, -96.768235",170,Permit,null,SC,thread
+"Wichita, KS",null,Wichita,KS,67216,USA,6,"37.60878, -97.33314",388,Open,null,SC,thread
+"Tallahassee, FL",null,Tallahassee,FL,32309,USA,6,"30.510935, -84.247838",63,Open,null,SC,thread
+"Grand Rapids, MI",null,Grand Rapids,MI,49512,USA,8,"42.914231, -85.533057",227,Open,null,SC,thread
+"Sundsvall, Sweden",null,Sundsvall,,,Sweden,4,"62.398271, 17.339795",16,Open,null,SC,thread
+"Gramschatzer Wald, Germany",null,Erbshausen,,97262,Germany,8,"49.912046, 10.001735",307,Open,null,SC,thread
+"El Centro, CA",null,El Centro,CA,92243,USA,8,"32.760837, -115.532486",-8,Open,null,SC,thread
+"St. George, UT",null,St. George,UT,84770,USA,8,"37.12645, -113.601865",887,Open,null,SC,thread
+"Steele, AL",null,Steele,AL,35987,USA,8,"33.93337, -86.191014",171,Construction,null,SC,thread
+"Lone Pine, CA",null,Lone Pine,CA,93545,USA,4,"36.60059, -118.061916","1,137",Open,null,SC,thread
+"Shenzhen Bay, China",null,Shenzhen,Guangdong,,China,8,"22.519723, 113.950085",0,Open,null,SC,forum
+"Wuxi Nanchang, China",null,Wuxi,Jiangsu,,China,4,"31.554107, 120.30893",8,Open,null,SC,forum
+"Sarn, UK",null,Sarn,,CF32 9SY,United Kingdom,8,"51.535351, -3.577637",75,Open,null,SC,forum
+"Fremont, CA",null,Fremont,CA,94538,USA,12,"37.493447, -121.945654",6,Open,null,SC,thread
+"Stoke-on-Trent Southbound, UK",null,"Newcastle, Staffordshire",,ST5 5HG,United Kingdom,4,"52.99413, -2.290797",155,Open,null,SC,thread
+"Hefei, China",null,Hefei,Anhui,,China,4,"31.829204, 117.231417",37,Open,null,SC,forum
+"Krokomsporten, Krokom, Sweden",null,Krokom,,,Sweden,8,"63.328793, 14.43",303,Open,null,SC,thread
+"Goodland, KS",null,Goodland,KS,67735,USA,6,"39.326253, -101.725171","1,129",Open,null,SC,thread
+"Atlanta, GA",null,Atlanta,GA,30363,USA,10,"33.793808, -84.397203",268,Open,null,SC,thread
+"Senlis, France",null,Senlis,,60300,France,8,"49.208728, 2.605788",83,Open,null,SC,forum
+"Temecula, CA",null,Temecula,CA,92591,USA,10,"33.52421, -117.152568",324,Open,null,SC,thread
+"Rhüden, Germany",null,Rhüden,,38723,Germany,8,"51.947228, 10.140842",153,Open,null,SC,thread
+"New Rochelle, NY",null,New Rochelle,NY,10801,USA,8,"40.912298, -73.780132",36,Permit,null,SC,thread
+"West Wendover, NV",null,West Wendover,NV,89883,USA,6,"40.738399, -114.058998","1,335",Open,null,SC,thread
+"Zwolle, Netherlands",null,Zwolle,,8028,Netherlands,12,"52.531375, 6.157279",1,Open,null,SC,thread
+"Klamath Falls, OR",null,Klamath Falls,OR,97603,USA,8,"42.216906, -121.756218","1,250",Open,null,SC,thread
+"East Greenwich, RI",null,East Greenwich,RI,2818,USA,8,"41.660517, -71.497242",73,Open,null,SC,forum
+"Bispingen, Germany",null,Bispingen,,29646,Germany,8,"53.104089, 9.981917",78,Open,null,SC,thread
+"Zhumadian - Join Auto, China",null,Zhumadian,Henan,,China,4,"33.015353, 114.059482",72,Open,null,SC,forum
+"Zvolen, Slovakia",null,Zvolen,,96231,Slovakia,4,"48.627379, 19.103481",335,Open,null,SC,thread
+"Calgary, AB",null,Rocky View,AB,T4A 0G3,Canada,8,"51.20412, -113.989686","1,085",Open,null,SC,thread
+"Hong Kong Telegraph bay, China",null,Hong Kong,Hong Kong,,China,6,"22.26237, 114.130487",6,Open,null,SC,forum
